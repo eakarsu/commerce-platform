@@ -1,0 +1,3271 @@
+{
+  "mapped": [
+    {
+      "project": "ai-ecommerce-fulfillment-inventory-loss-recovery",
+      "sourceKey": "fulfillment-agreement-library",
+      "source": "/Volumes/external/projects/ai-ecommerce-fulfillment-inventory-loss-recovery/app.config.mjs",
+      "canonical": "fulfillment-agreement-library",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-ecommerce-fulfillment-inventory-loss-recovery",
+      "sourceKey": "sku-cost-registry",
+      "source": "/Volumes/external/projects/ai-ecommerce-fulfillment-inventory-loss-recovery/app.config.mjs",
+      "canonical": "sku-cost-registry",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-ecommerce-fulfillment-inventory-loss-recovery",
+      "sourceKey": "inbound-shipment-ingestion",
+      "source": "/Volumes/external/projects/ai-ecommerce-fulfillment-inventory-loss-recovery/app.config.mjs",
+      "canonical": "inbound-shipment-ingestion",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-ecommerce-fulfillment-inventory-loss-recovery",
+      "sourceKey": "receiving-reconciliation",
+      "source": "/Volumes/external/projects/ai-ecommerce-fulfillment-inventory-loss-recovery/app.config.mjs",
+      "canonical": "receiving-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-ecommerce-fulfillment-inventory-loss-recovery",
+      "sourceKey": "inventory-adjustment-tracking",
+      "source": "/Volumes/external/projects/ai-ecommerce-fulfillment-inventory-loss-recovery/app.config.mjs",
+      "canonical": "inventory-adjustment-tracking",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-ecommerce-fulfillment-inventory-loss-recovery",
+      "sourceKey": "warehouse-loss-detection",
+      "source": "/Volumes/external/projects/ai-ecommerce-fulfillment-inventory-loss-recovery/app.config.mjs",
+      "canonical": "warehouse-loss-detection",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-ecommerce-fulfillment-inventory-loss-recovery",
+      "sourceKey": "damage-event-evidence",
+      "source": "/Volumes/external/projects/ai-ecommerce-fulfillment-inventory-loss-recovery/app.config.mjs",
+      "canonical": "damage-event-evidence",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-ecommerce-fulfillment-inventory-loss-recovery",
+      "sourceKey": "disposal-authorization-control",
+      "source": "/Volumes/external/projects/ai-ecommerce-fulfillment-inventory-loss-recovery/app.config.mjs",
+      "canonical": "disposal-authorization-control",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-ecommerce-fulfillment-inventory-loss-recovery",
+      "sourceKey": "removal-order-matching",
+      "source": "/Volumes/external/projects/ai-ecommerce-fulfillment-inventory-loss-recovery/app.config.mjs",
+      "canonical": "removal-order-matching",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-ecommerce-fulfillment-inventory-loss-recovery",
+      "sourceKey": "reimbursement-eligibility",
+      "source": "/Volumes/external/projects/ai-ecommerce-fulfillment-inventory-loss-recovery/app.config.mjs",
+      "canonical": "reimbursement-eligibility",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-ecommerce-fulfillment-inventory-loss-recovery",
+      "sourceKey": "replacement-cost-calculation",
+      "source": "/Volumes/external/projects/ai-ecommerce-fulfillment-inventory-loss-recovery/app.config.mjs",
+      "canonical": "replacement-cost-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-ecommerce-fulfillment-inventory-loss-recovery",
+      "sourceKey": "provider-claim-generation",
+      "source": "/Volumes/external/projects/ai-ecommerce-fulfillment-inventory-loss-recovery/app.config.mjs",
+      "canonical": "provider-claim-generation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-ecommerce-fulfillment-inventory-loss-recovery",
+      "sourceKey": "denial-appeal-workflow",
+      "source": "/Volumes/external/projects/ai-ecommerce-fulfillment-inventory-loss-recovery/app.config.mjs",
+      "canonical": "denial-appeal-workflow",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-ecommerce-fulfillment-inventory-loss-recovery",
+      "sourceKey": "cash-reimbursement-matching",
+      "source": "/Volumes/external/projects/ai-ecommerce-fulfillment-inventory-loss-recovery/app.config.mjs",
+      "canonical": "cash-reimbursement-matching",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-ecommerce-fulfillment-inventory-loss-recovery",
+      "sourceKey": "provider-sku-analytics",
+      "source": "/Volumes/external/projects/ai-ecommerce-fulfillment-inventory-loss-recovery/app.config.mjs",
+      "canonical": "provider-sku-analytics",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-ecommerce-fulfillment-inventory-loss-recovery",
+      "sourceKey": "analytics",
+      "source": "/Volumes/external/projects/ai-ecommerce-fulfillment-inventory-loss-recovery/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-ecommerce-fulfillment-inventory-loss-recovery",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-ecommerce-fulfillment-inventory-loss-recovery/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-marketplace-seller-fee-reimbursement-recovery",
+      "sourceKey": "marketplace-account-and-policy-library",
+      "source": "/Volumes/external/projects/ai-marketplace-seller-fee-reimbursement-recovery/app.config.mjs",
+      "canonical": "marketplace-account-and-policy-library",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-marketplace-seller-fee-reimbursement-recovery",
+      "sourceKey": "sku-and-listing-registry",
+      "source": "/Volumes/external/projects/ai-marketplace-seller-fee-reimbursement-recovery/app.config.mjs",
+      "canonical": "sku-and-listing-registry",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-marketplace-seller-fee-reimbursement-recovery",
+      "sourceKey": "order-and-settlement-ingestion",
+      "source": "/Volumes/external/projects/ai-marketplace-seller-fee-reimbursement-recovery/app.config.mjs",
+      "canonical": "order-and-settlement-ingestion",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-marketplace-seller-fee-reimbursement-recovery",
+      "sourceKey": "fulfillment-inventory-ledger",
+      "source": "/Volumes/external/projects/ai-marketplace-seller-fee-reimbursement-recovery/app.config.mjs",
+      "canonical": "fulfillment-inventory-ledger",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-marketplace-seller-fee-reimbursement-recovery",
+      "sourceKey": "inbound-shortage-detection",
+      "source": "/Volumes/external/projects/ai-marketplace-seller-fee-reimbursement-recovery/app.config.mjs",
+      "canonical": "inbound-shortage-detection",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-marketplace-seller-fee-reimbursement-recovery",
+      "sourceKey": "lost-and-damaged-inventory-recovery",
+      "source": "/Volumes/external/projects/ai-marketplace-seller-fee-reimbursement-recovery/app.config.mjs",
+      "canonical": "lost-and-damaged-inventory-recovery",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-marketplace-seller-fee-reimbursement-recovery",
+      "sourceKey": "return-and-refund-reconciliation",
+      "source": "/Volumes/external/projects/ai-marketplace-seller-fee-reimbursement-recovery/app.config.mjs",
+      "canonical": "return-and-refund-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-marketplace-seller-fee-reimbursement-recovery",
+      "sourceKey": "fulfillment-fee-recalculation",
+      "source": "/Volumes/external/projects/ai-marketplace-seller-fee-reimbursement-recovery/app.config.mjs",
+      "canonical": "fulfillment-fee-recalculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-marketplace-seller-fee-reimbursement-recovery",
+      "sourceKey": "storage-and-aged-inventory-fee-audit",
+      "source": "/Volumes/external/projects/ai-marketplace-seller-fee-reimbursement-recovery/app.config.mjs",
+      "canonical": "storage-and-aged-inventory-fee-audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-marketplace-seller-fee-reimbursement-recovery",
+      "sourceKey": "commission-and-referral-fee-audit",
+      "source": "/Volumes/external/projects/ai-marketplace-seller-fee-reimbursement-recovery/app.config.mjs",
+      "canonical": "commission-and-referral-fee-audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-marketplace-seller-fee-reimbursement-recovery",
+      "sourceKey": "duplicate-deduction-detection",
+      "source": "/Volumes/external/projects/ai-marketplace-seller-fee-reimbursement-recovery/app.config.mjs",
+      "canonical": "duplicate-deduction-detection",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-marketplace-seller-fee-reimbursement-recovery",
+      "sourceKey": "reimbursement-eligibility-engine",
+      "source": "/Volumes/external/projects/ai-marketplace-seller-fee-reimbursement-recovery/app.config.mjs",
+      "canonical": "reimbursement-eligibility-engine",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-marketplace-seller-fee-reimbursement-recovery",
+      "sourceKey": "claim-package-and-submission",
+      "source": "/Volumes/external/projects/ai-marketplace-seller-fee-reimbursement-recovery/app.config.mjs",
+      "canonical": "claim-package-and-submission",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-marketplace-seller-fee-reimbursement-recovery",
+      "sourceKey": "settlement-credit-reconciliation",
+      "source": "/Volumes/external/projects/ai-marketplace-seller-fee-reimbursement-recovery/app.config.mjs",
+      "canonical": "settlement-credit-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-marketplace-seller-fee-reimbursement-recovery",
+      "sourceKey": "sku-and-marketplace-leakage-analytics",
+      "source": "/Volumes/external/projects/ai-marketplace-seller-fee-reimbursement-recovery/app.config.mjs",
+      "canonical": "sku-and-marketplace-leakage-analytics",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-marketplace-seller-fee-reimbursement-recovery",
+      "sourceKey": "analytics",
+      "source": "/Volumes/external/projects/ai-marketplace-seller-fee-reimbursement-recovery/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-marketplace-seller-fee-reimbursement-recovery",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-marketplace-seller-fee-reimbursement-recovery/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-subscription-billing-revenue-leakage-recovery",
+      "sourceKey": "product-catalog-versioning",
+      "source": "/Volumes/external/projects/ai-subscription-billing-revenue-leakage-recovery/app.config.mjs",
+      "canonical": "product-catalog-versioning",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-subscription-billing-revenue-leakage-recovery",
+      "sourceKey": "customer-contract-ingestion",
+      "source": "/Volumes/external/projects/ai-subscription-billing-revenue-leakage-recovery/app.config.mjs",
+      "canonical": "customer-contract-ingestion",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-subscription-billing-revenue-leakage-recovery",
+      "sourceKey": "entitlement-registry",
+      "source": "/Volumes/external/projects/ai-subscription-billing-revenue-leakage-recovery/app.config.mjs",
+      "canonical": "entitlement-registry",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-subscription-billing-revenue-leakage-recovery",
+      "sourceKey": "subscription-lifecycle-control",
+      "source": "/Volumes/external/projects/ai-subscription-billing-revenue-leakage-recovery/app.config.mjs",
+      "canonical": "subscription-lifecycle-control",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-subscription-billing-revenue-leakage-recovery",
+      "sourceKey": "usage-event-ingestion",
+      "source": "/Volumes/external/projects/ai-subscription-billing-revenue-leakage-recovery/app.config.mjs",
+      "canonical": "usage-event-ingestion",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-subscription-billing-revenue-leakage-recovery",
+      "sourceKey": "minimum-commitment-validation",
+      "source": "/Volumes/external/projects/ai-subscription-billing-revenue-leakage-recovery/app.config.mjs",
+      "canonical": "minimum-commitment-validation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-subscription-billing-revenue-leakage-recovery",
+      "sourceKey": "proration-recalculation",
+      "source": "/Volumes/external/projects/ai-subscription-billing-revenue-leakage-recovery/app.config.mjs",
+      "canonical": "proration-recalculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-subscription-billing-revenue-leakage-recovery",
+      "sourceKey": "discount-expiration-monitoring",
+      "source": "/Volumes/external/projects/ai-subscription-billing-revenue-leakage-recovery/app.config.mjs",
+      "canonical": "discount-expiration-monitoring",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-subscription-billing-revenue-leakage-recovery",
+      "sourceKey": "renewal-uplift-enforcement",
+      "source": "/Volumes/external/projects/ai-subscription-billing-revenue-leakage-recovery/app.config.mjs",
+      "canonical": "renewal-uplift-enforcement",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-subscription-billing-revenue-leakage-recovery",
+      "sourceKey": "overage-billing-calculation",
+      "source": "/Volumes/external/projects/ai-subscription-billing-revenue-leakage-recovery/app.config.mjs",
+      "canonical": "overage-billing-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-subscription-billing-revenue-leakage-recovery",
+      "sourceKey": "tax-and-currency-validation",
+      "source": "/Volumes/external/projects/ai-subscription-billing-revenue-leakage-recovery/app.config.mjs",
+      "canonical": "tax-and-currency-validation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-subscription-billing-revenue-leakage-recovery",
+      "sourceKey": "missing-invoice-detection",
+      "source": "/Volumes/external/projects/ai-subscription-billing-revenue-leakage-recovery/app.config.mjs",
+      "canonical": "missing-invoice-detection",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-subscription-billing-revenue-leakage-recovery",
+      "sourceKey": "credit-and-refund-audit",
+      "source": "/Volumes/external/projects/ai-subscription-billing-revenue-leakage-recovery/app.config.mjs",
+      "canonical": "credit-and-refund-audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-subscription-billing-revenue-leakage-recovery",
+      "sourceKey": "corrected-billing-workflow",
+      "source": "/Volumes/external/projects/ai-subscription-billing-revenue-leakage-recovery/app.config.mjs",
+      "canonical": "corrected-billing-workflow",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-subscription-billing-revenue-leakage-recovery",
+      "sourceKey": "mrr-arr-and-leakage-analytics",
+      "source": "/Volumes/external/projects/ai-subscription-billing-revenue-leakage-recovery/app.config.mjs",
+      "canonical": "mrr-arr-and-leakage-analytics",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-subscription-billing-revenue-leakage-recovery",
+      "sourceKey": "analytics",
+      "source": "/Volumes/external/projects/ai-subscription-billing-revenue-leakage-recovery/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-subscription-billing-revenue-leakage-recovery",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-subscription-billing-revenue-leakage-recovery/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "AICircularEconomyUpcyclingMarketplace",
+      "sourceKey": "material-passport-ledger",
+      "source": "/Volumes/external/projects/AICircularEconomyUpcyclingMarketplace",
+      "canonical": "material-passport-ledger",
+      "kind": "route"
+    },
+    {
+      "project": "AICircularEconomyUpcyclingMarketplace",
+      "sourceKey": "tools/upcycle-idea",
+      "source": "/Volumes/external/projects/AICircularEconomyUpcyclingMarketplace",
+      "canonical": "tools-upcycle-idea",
+      "kind": "route"
+    },
+    {
+      "project": "AICircularEconomyUpcyclingMarketplace",
+      "sourceKey": "tools/material-valuation",
+      "source": "/Volumes/external/projects/AICircularEconomyUpcyclingMarketplace",
+      "canonical": "tools-material-valuation",
+      "kind": "route"
+    },
+    {
+      "project": "AICircularEconomyUpcyclingMarketplace",
+      "sourceKey": "tools/listing-optimizer",
+      "source": "/Volumes/external/projects/AICircularEconomyUpcyclingMarketplace",
+      "canonical": "tools-listing-optimizer",
+      "kind": "route"
+    },
+    {
+      "project": "AICircularEconomyUpcyclingMarketplace",
+      "sourceKey": "tools/carbon-impact",
+      "source": "/Volumes/external/projects/AICircularEconomyUpcyclingMarketplace",
+      "canonical": "tools-carbon-impact",
+      "kind": "route"
+    },
+    {
+      "project": "AICircularEconomyUpcyclingMarketplace",
+      "sourceKey": "tools/buyer-match",
+      "source": "/Volumes/external/projects/AICircularEconomyUpcyclingMarketplace",
+      "canonical": "tools-buyer-match",
+      "kind": "route"
+    },
+    {
+      "project": "AICircularEconomyUpcyclingMarketplace",
+      "sourceKey": "tools/repair-or-resell",
+      "source": "/Volumes/external/projects/AICircularEconomyUpcyclingMarketplace",
+      "canonical": "tools-repair-or-resell",
+      "kind": "route"
+    },
+    {
+      "project": "AICircularEconomyUpcyclingMarketplace",
+      "sourceKey": "tools/pricing-strategy",
+      "source": "/Volumes/external/projects/AICircularEconomyUpcyclingMarketplace",
+      "canonical": "tools-pricing-strategy",
+      "kind": "route"
+    },
+    {
+      "project": "AICircularEconomyUpcyclingMarketplace",
+      "sourceKey": "tools/trend-forecast",
+      "source": "/Volumes/external/projects/AICircularEconomyUpcyclingMarketplace",
+      "canonical": "tools-trend-forecast",
+      "kind": "route"
+    },
+    {
+      "project": "AICircularEconomyUpcyclingMarketplace",
+      "sourceKey": "tools/sustainability-verify",
+      "source": "/Volumes/external/projects/AICircularEconomyUpcyclingMarketplace",
+      "canonical": "tools-sustainability-verify",
+      "kind": "route"
+    },
+    {
+      "project": "AICircularEconomyUpcyclingMarketplace",
+      "sourceKey": "tools/seller-coach",
+      "source": "/Volumes/external/projects/AICircularEconomyUpcyclingMarketplace",
+      "canonical": "tools-seller-coach",
+      "kind": "route"
+    },
+    {
+      "project": "AiECommerceAgent",
+      "sourceKey": "/products",
+      "source": "/Volumes/external/projects/AiECommerceAgent/frontend/src/pages/Dashboard.jsx",
+      "canonical": "products",
+      "kind": "definition"
+    },
+    {
+      "project": "AiECommerceAgent",
+      "sourceKey": "/campaigns",
+      "source": "/Volumes/external/projects/AiECommerceAgent/frontend/src/pages/Dashboard.jsx",
+      "canonical": "campaigns",
+      "kind": "definition"
+    },
+    {
+      "project": "AiECommerceAgent",
+      "sourceKey": "/inventory",
+      "source": "/Volumes/external/projects/AiECommerceAgent/frontend/src/pages/Dashboard.jsx",
+      "canonical": "inventory",
+      "kind": "definition"
+    },
+    {
+      "project": "AiECommerceAgent",
+      "sourceKey": "/customers",
+      "source": "/Volumes/external/projects/AiECommerceAgent/frontend/src/pages/Dashboard.jsx",
+      "canonical": "clients",
+      "kind": "definition"
+    },
+    {
+      "project": "AiECommerceAgent",
+      "sourceKey": "/orders",
+      "source": "/Volumes/external/projects/AiECommerceAgent/frontend/src/pages/Dashboard.jsx",
+      "canonical": "orders",
+      "kind": "definition"
+    },
+    {
+      "project": "AiECommerceAgent",
+      "sourceKey": "/reviews",
+      "source": "/Volumes/external/projects/AiECommerceAgent/frontend/src/pages/Dashboard.jsx",
+      "canonical": "reviews",
+      "kind": "definition"
+    },
+    {
+      "project": "AiECommerceAgent",
+      "sourceKey": "/content",
+      "source": "/Volumes/external/projects/AiECommerceAgent/frontend/src/pages/Dashboard.jsx",
+      "canonical": "content",
+      "kind": "definition"
+    },
+    {
+      "project": "AiECommerceAgent",
+      "sourceKey": "/fraud-detector",
+      "source": "/Volumes/external/projects/AiECommerceAgent/frontend/src/pages/Dashboard.jsx",
+      "canonical": "fraud-detector",
+      "kind": "definition"
+    },
+    {
+      "project": "AiECommerceAgent",
+      "sourceKey": "/cart-abandonment",
+      "source": "/Volumes/external/projects/AiECommerceAgent/frontend/src/pages/Dashboard.jsx",
+      "canonical": "cart-abandonment",
+      "kind": "definition"
+    },
+    {
+      "project": "AiECommerceAgent",
+      "sourceKey": "/trends",
+      "source": "/Volumes/external/projects/AiECommerceAgent/frontend/src/pages/Dashboard.jsx",
+      "canonical": "trends",
+      "kind": "definition"
+    },
+    {
+      "project": "AiECommerceAgent",
+      "sourceKey": "/competitors",
+      "source": "/Volumes/external/projects/AiECommerceAgent/frontend/src/pages/Dashboard.jsx",
+      "canonical": "competitors",
+      "kind": "definition"
+    },
+    {
+      "project": "AiECommerceAgent",
+      "sourceKey": "/ab-tests",
+      "source": "/Volumes/external/projects/AiECommerceAgent/frontend/src/pages/Dashboard.jsx",
+      "canonical": "ab-tests",
+      "kind": "definition"
+    },
+    {
+      "project": "AiECommerceAgent",
+      "sourceKey": "/forecasts",
+      "source": "/Volumes/external/projects/AiECommerceAgent/frontend/src/pages/Dashboard.jsx",
+      "canonical": "forecasts",
+      "kind": "definition"
+    },
+    {
+      "project": "AiECommerceAgent",
+      "sourceKey": "/segments",
+      "source": "/Volumes/external/projects/AiECommerceAgent/frontend/src/pages/Dashboard.jsx",
+      "canonical": "segments",
+      "kind": "definition"
+    },
+    {
+      "project": "AiECommerceAgent",
+      "sourceKey": "/recommendations",
+      "source": "/Volumes/external/projects/AiECommerceAgent/frontend/src/pages/Dashboard.jsx",
+      "canonical": "recommendations",
+      "kind": "definition"
+    },
+    {
+      "project": "AiECommerceAgent",
+      "sourceKey": "growth-os",
+      "source": "/Volumes/external/projects/AiECommerceAgent",
+      "canonical": "growth-os",
+      "kind": "route"
+    },
+    {
+      "project": "AiECommerceAgent",
+      "sourceKey": "growth-os/validation",
+      "source": "/Volumes/external/projects/AiECommerceAgent",
+      "canonical": "growth-os-validation",
+      "kind": "route"
+    },
+    {
+      "project": "AiECommerceAgent",
+      "sourceKey": "growth-os/suppliers",
+      "source": "/Volumes/external/projects/AiECommerceAgent",
+      "canonical": "growth-os-suppliers",
+      "kind": "route"
+    },
+    {
+      "project": "AiECommerceAgent",
+      "sourceKey": "growth-os/creative",
+      "source": "/Volumes/external/projects/AiECommerceAgent",
+      "canonical": "growth-os-creative",
+      "kind": "route"
+    },
+    {
+      "project": "AiECommerceAgent",
+      "sourceKey": "growth-os/testing",
+      "source": "/Volumes/external/projects/AiECommerceAgent",
+      "canonical": "growth-os-testing",
+      "kind": "route"
+    },
+    {
+      "project": "AiECommerceAgent",
+      "sourceKey": "growth-os/connectors",
+      "source": "/Volumes/external/projects/AiECommerceAgent",
+      "canonical": "growth-os-connectors",
+      "kind": "route"
+    },
+    {
+      "project": "AiECommerceAgent",
+      "sourceKey": "dropship-operations",
+      "source": "/Volumes/external/projects/AiECommerceAgent",
+      "canonical": "dropship-operations",
+      "kind": "route"
+    },
+    {
+      "project": "AiECommerceAgent",
+      "sourceKey": "inventory-alerts",
+      "source": "/Volumes/external/projects/AiECommerceAgent",
+      "canonical": "inventory-alerts",
+      "kind": "route"
+    },
+    {
+      "project": "AiECommerceAgent",
+      "sourceKey": "payment-methods",
+      "source": "/Volumes/external/projects/AiECommerceAgent",
+      "canonical": "payment-methods",
+      "kind": "route"
+    },
+    {
+      "project": "AiECommerceAgent",
+      "sourceKey": "checkout",
+      "source": "/Volumes/external/projects/AiECommerceAgent",
+      "canonical": "checkout",
+      "kind": "route"
+    },
+    {
+      "project": "AiECommerceAgent",
+      "sourceKey": "checkout/success",
+      "source": "/Volumes/external/projects/AiECommerceAgent",
+      "canonical": "checkout-success",
+      "kind": "route"
+    },
+    {
+      "project": "AiECommerceAgent",
+      "sourceKey": "coupons",
+      "source": "/Volumes/external/projects/AiECommerceAgent",
+      "canonical": "coupons",
+      "kind": "route"
+    },
+    {
+      "project": "AiECommerceAgent",
+      "sourceKey": "audit-log",
+      "source": "/Volumes/external/projects/AiECommerceAgent",
+      "canonical": "audit",
+      "kind": "route"
+    },
+    {
+      "project": "AiECommerceAgent",
+      "sourceKey": "reports",
+      "source": "/Volumes/external/projects/AiECommerceAgent",
+      "canonical": "reports",
+      "kind": "route"
+    },
+    {
+      "project": "AiECommerceAgent",
+      "sourceKey": "users",
+      "source": "/Volumes/external/projects/AiECommerceAgent",
+      "canonical": "users",
+      "kind": "route"
+    },
+    {
+      "project": "AiECommerceAgent",
+      "sourceKey": "notifications",
+      "source": "/Volumes/external/projects/AiECommerceAgent",
+      "canonical": "messages",
+      "kind": "route"
+    },
+    {
+      "project": "AiECommerceAgent",
+      "sourceKey": "inventory-reorder",
+      "source": "/Volumes/external/projects/AiECommerceAgent",
+      "canonical": "inventory-reorder",
+      "kind": "route"
+    },
+    {
+      "project": "AiECommerceAgent",
+      "sourceKey": "price-elasticity",
+      "source": "/Volumes/external/projects/AiECommerceAgent",
+      "canonical": "price-elasticity",
+      "kind": "route"
+    },
+    {
+      "project": "AiECommerceAgent",
+      "sourceKey": "photo-critique",
+      "source": "/Volumes/external/projects/AiECommerceAgent",
+      "canonical": "photo-critique",
+      "kind": "route"
+    },
+    {
+      "project": "AiECommerceAgent",
+      "sourceKey": "concierge",
+      "source": "/Volumes/external/projects/AiECommerceAgent",
+      "canonical": "concierge",
+      "kind": "route"
+    },
+    {
+      "project": "AiECommerceAgent",
+      "sourceKey": "fraud-clusters",
+      "source": "/Volumes/external/projects/AiECommerceAgent",
+      "canonical": "fraud-clusters",
+      "kind": "route"
+    },
+    {
+      "project": "AiECommerceAgent",
+      "sourceKey": "visual-search",
+      "source": "/Volumes/external/projects/AiECommerceAgent",
+      "canonical": "visual-search",
+      "kind": "route"
+    },
+    {
+      "project": "AiECommerceAgent",
+      "sourceKey": "marketplace-sync",
+      "source": "/Volumes/external/projects/AiECommerceAgent",
+      "canonical": "marketplace-sync",
+      "kind": "route"
+    },
+    {
+      "project": "AiECommerceAgent",
+      "sourceKey": "affiliate-referrals",
+      "source": "/Volumes/external/projects/AiECommerceAgent",
+      "canonical": "affiliate-referrals",
+      "kind": "route"
+    },
+    {
+      "project": "AiECommerceAgent",
+      "sourceKey": "store-views",
+      "source": "/Volumes/external/projects/AiECommerceAgent",
+      "canonical": "store-views",
+      "kind": "route"
+    },
+    {
+      "project": "AiECommerceAgent",
+      "sourceKey": "return-risk-exchange-optimizer",
+      "source": "/Volumes/external/projects/AiECommerceAgent",
+      "canonical": "return-risk-exchange-optimizer",
+      "kind": "route"
+    },
+    {
+      "project": "AIMarketplaceBuilderPlatform",
+      "sourceKey": "/api/ai/marketplace-recommendations",
+      "source": "/Volumes/external/projects/AIMarketplaceBuilderPlatform/client/src/pages/AIToolsPage.js",
+      "canonical": "api-ai-marketplace-recommendations",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMarketplaceBuilderPlatform",
+      "sourceKey": "/api/ai/seller-match",
+      "source": "/Volumes/external/projects/AIMarketplaceBuilderPlatform/client/src/pages/AIToolsPage.js",
+      "canonical": "api-ai-seller-match",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMarketplaceBuilderPlatform",
+      "sourceKey": "/api/ai/pricing-advisor",
+      "source": "/Volumes/external/projects/AIMarketplaceBuilderPlatform/client/src/pages/AIToolsPage.js",
+      "canonical": "api-ai-pricing-advisor",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMarketplaceBuilderPlatform",
+      "sourceKey": "/api/ai/fraud-detection",
+      "source": "/Volumes/external/projects/AIMarketplaceBuilderPlatform/client/src/pages/AIToolsPage.js",
+      "canonical": "api-ai-fraud-detection",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMarketplaceBuilderPlatform",
+      "sourceKey": "templates",
+      "source": "/Volumes/external/projects/AIMarketplaceBuilderPlatform",
+      "canonical": "templates",
+      "kind": "route"
+    },
+    {
+      "project": "AIPricingOptimizer",
+      "sourceKey": "/products",
+      "source": "/Volumes/external/projects/AIPricingOptimizer/frontend/src/components/Layout.js",
+      "canonical": "products",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPricingOptimizer",
+      "sourceKey": "/competitors",
+      "source": "/Volumes/external/projects/AIPricingOptimizer/frontend/src/components/Layout.js",
+      "canonical": "competitors",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPricingOptimizer",
+      "sourceKey": "/demand-signals",
+      "source": "/Volumes/external/projects/AIPricingOptimizer/frontend/src/components/Layout.js",
+      "canonical": "demand-signals",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPricingOptimizer",
+      "sourceKey": "/price-suggestions",
+      "source": "/Volumes/external/projects/AIPricingOptimizer/frontend/src/components/Layout.js",
+      "canonical": "price-suggestions",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPricingOptimizer",
+      "sourceKey": "/price-history",
+      "source": "/Volumes/external/projects/AIPricingOptimizer/frontend/src/components/Layout.js",
+      "canonical": "price-history",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPricingOptimizer",
+      "sourceKey": "/market-trends",
+      "source": "/Volumes/external/projects/AIPricingOptimizer/frontend/src/components/Layout.js",
+      "canonical": "market-trends",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPricingOptimizer",
+      "sourceKey": "/ai-insights",
+      "source": "/Volumes/external/projects/AIPricingOptimizer/frontend/src/components/Layout.js",
+      "canonical": "insights",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPricingOptimizer",
+      "sourceKey": "/competitor-tracking",
+      "source": "/Volumes/external/projects/AIPricingOptimizer/frontend/src/components/Layout.js",
+      "canonical": "competitor-tracking",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPricingOptimizer",
+      "sourceKey": "/demand-forecasts",
+      "source": "/Volumes/external/projects/AIPricingOptimizer/frontend/src/components/Layout.js",
+      "canonical": "demand-forecasts",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPricingOptimizer",
+      "sourceKey": "/bundle-recommendations",
+      "source": "/Volumes/external/projects/AIPricingOptimizer/frontend/src/components/Layout.js",
+      "canonical": "bundle-recommendations",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPricingOptimizer",
+      "sourceKey": "/discount-optimizations",
+      "source": "/Volumes/external/projects/AIPricingOptimizer/frontend/src/components/Layout.js",
+      "canonical": "discount-optimizations",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPricingOptimizer",
+      "sourceKey": "/price-elasticity",
+      "source": "/Volumes/external/projects/AIPricingOptimizer/frontend/src/components/Layout.js",
+      "canonical": "price-elasticity",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPricingOptimizer",
+      "sourceKey": "/price-tracker",
+      "source": "/Volumes/external/projects/AIPricingOptimizer/frontend/src/components/Layout.js",
+      "canonical": "price-tracker",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPricingOptimizer",
+      "sourceKey": "/pricing-simulation",
+      "source": "/Volumes/external/projects/AIPricingOptimizer/frontend/src/components/Layout.js",
+      "canonical": "pricing-simulation",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPricingOptimizer",
+      "sourceKey": "/ai-usage-stats",
+      "source": "/Volumes/external/projects/AIPricingOptimizer/frontend/src/components/Layout.js",
+      "canonical": "usage-stats",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPricingOptimizer",
+      "sourceKey": "/bulk-price-update",
+      "source": "/Volumes/external/projects/AIPricingOptimizer/frontend/src/components/Layout.js",
+      "canonical": "bulk-price-update",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPricingOptimizer",
+      "sourceKey": "/password-resets",
+      "source": "/Volumes/external/projects/AIPricingOptimizer/frontend/src/components/Layout.js",
+      "canonical": "password-resets",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPricingOptimizer",
+      "sourceKey": "/password-changes",
+      "source": "/Volumes/external/projects/AIPricingOptimizer/frontend/src/components/Layout.js",
+      "canonical": "password-changes",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPricingOptimizer",
+      "sourceKey": "/session-logs",
+      "source": "/Volumes/external/projects/AIPricingOptimizer/frontend/src/components/Layout.js",
+      "canonical": "session-logs",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPricingOptimizer",
+      "sourceKey": "/pagination-configs",
+      "source": "/Volumes/external/projects/AIPricingOptimizer/frontend/src/components/Layout.js",
+      "canonical": "pagination-configs",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPricingOptimizer",
+      "sourceKey": "/pdf-exports",
+      "source": "/Volumes/external/projects/AIPricingOptimizer/frontend/src/components/Layout.js",
+      "canonical": "pdf-exports",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPricingOptimizer",
+      "sourceKey": "/confirmation-dialogs",
+      "source": "/Volumes/external/projects/AIPricingOptimizer/frontend/src/components/Layout.js",
+      "canonical": "confirmation-dialogs",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPricingOptimizer",
+      "sourceKey": "/error-logs",
+      "source": "/Volumes/external/projects/AIPricingOptimizer/frontend/src/components/Layout.js",
+      "canonical": "error-logs",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPricingOptimizer",
+      "sourceKey": "/loading-configs",
+      "source": "/Volumes/external/projects/AIPricingOptimizer/frontend/src/components/Layout.js",
+      "canonical": "loading-configs",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPricingOptimizer",
+      "sourceKey": "/rbac-policies",
+      "source": "/Volumes/external/projects/AIPricingOptimizer/frontend/src/components/Layout.js",
+      "canonical": "rbac-policies",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPricingOptimizer",
+      "sourceKey": "/rate-limit-logs",
+      "source": "/Volumes/external/projects/AIPricingOptimizer/frontend/src/components/Layout.js",
+      "canonical": "rate-limit-logs",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPricingOptimizer",
+      "sourceKey": "/security-headers",
+      "source": "/Volumes/external/projects/AIPricingOptimizer/frontend/src/components/Layout.js",
+      "canonical": "security-headers",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPricingOptimizer",
+      "sourceKey": "/email-verifications",
+      "source": "/Volumes/external/projects/AIPricingOptimizer/frontend/src/components/Layout.js",
+      "canonical": "email-verifications",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPricingOptimizer",
+      "sourceKey": "/password-validations",
+      "source": "/Volumes/external/projects/AIPricingOptimizer/frontend/src/components/Layout.js",
+      "canonical": "password-validations",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPricingOptimizer",
+      "sourceKey": "/users",
+      "source": "/Volumes/external/projects/AIPricingOptimizer/frontend/src/components/Layout.js",
+      "canonical": "users",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPricingOptimizer",
+      "sourceKey": "products",
+      "source": "/Volumes/external/projects/AIPricingOptimizer/frontend/src/pages/Dashboard.js",
+      "canonical": "products",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPricingOptimizer",
+      "sourceKey": "competitors",
+      "source": "/Volumes/external/projects/AIPricingOptimizer/frontend/src/pages/Dashboard.js",
+      "canonical": "competitors",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPricingOptimizer",
+      "sourceKey": "demand",
+      "source": "/Volumes/external/projects/AIPricingOptimizer/frontend/src/pages/Dashboard.js",
+      "canonical": "demand-signals",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPricingOptimizer",
+      "sourceKey": "suggestions",
+      "source": "/Volumes/external/projects/AIPricingOptimizer/frontend/src/pages/Dashboard.js",
+      "canonical": "price-suggestions",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPricingOptimizer",
+      "sourceKey": "trends",
+      "source": "/Volumes/external/projects/AIPricingOptimizer/frontend/src/pages/Dashboard.js",
+      "canonical": "market-trends",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPricingOptimizer",
+      "sourceKey": "insights",
+      "source": "/Volumes/external/projects/AIPricingOptimizer/frontend/src/pages/Dashboard.js",
+      "canonical": "insights",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPricingOptimizer",
+      "sourceKey": "competitor-tracking",
+      "source": "/Volumes/external/projects/AIPricingOptimizer/frontend/src/pages/Dashboard.js",
+      "canonical": "competitor-tracking",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPricingOptimizer",
+      "sourceKey": "demand-forecasts",
+      "source": "/Volumes/external/projects/AIPricingOptimizer/frontend/src/pages/Dashboard.js",
+      "canonical": "demand-forecasts",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPricingOptimizer",
+      "sourceKey": "bundle-recommendations",
+      "source": "/Volumes/external/projects/AIPricingOptimizer/frontend/src/pages/Dashboard.js",
+      "canonical": "bundle-recommendations",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPricingOptimizer",
+      "sourceKey": "discount-optimizations",
+      "source": "/Volumes/external/projects/AIPricingOptimizer/frontend/src/pages/Dashboard.js",
+      "canonical": "discount-optimizations",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPricingOptimizer",
+      "sourceKey": "price-elasticity",
+      "source": "/Volumes/external/projects/AIPricingOptimizer/frontend/src/pages/Dashboard.js",
+      "canonical": "price-elasticity",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPricingOptimizer",
+      "sourceKey": "price-tracker",
+      "source": "/Volumes/external/projects/AIPricingOptimizer/frontend/src/pages/Dashboard.js",
+      "canonical": "price-tracker",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPricingOptimizer",
+      "sourceKey": "password-resets",
+      "source": "/Volumes/external/projects/AIPricingOptimizer/frontend/src/pages/Dashboard.js",
+      "canonical": "password-resets",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPricingOptimizer",
+      "sourceKey": "password-changes",
+      "source": "/Volumes/external/projects/AIPricingOptimizer/frontend/src/pages/Dashboard.js",
+      "canonical": "password-changes",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPricingOptimizer",
+      "sourceKey": "session-logs",
+      "source": "/Volumes/external/projects/AIPricingOptimizer/frontend/src/pages/Dashboard.js",
+      "canonical": "session-logs",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPricingOptimizer",
+      "sourceKey": "pagination-configs",
+      "source": "/Volumes/external/projects/AIPricingOptimizer/frontend/src/pages/Dashboard.js",
+      "canonical": "pagination-configs",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPricingOptimizer",
+      "sourceKey": "pdf-exports",
+      "source": "/Volumes/external/projects/AIPricingOptimizer/frontend/src/pages/Dashboard.js",
+      "canonical": "pdf-exports",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPricingOptimizer",
+      "sourceKey": "confirmation-dialogs",
+      "source": "/Volumes/external/projects/AIPricingOptimizer/frontend/src/pages/Dashboard.js",
+      "canonical": "confirmation-dialogs",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPricingOptimizer",
+      "sourceKey": "error-logs",
+      "source": "/Volumes/external/projects/AIPricingOptimizer/frontend/src/pages/Dashboard.js",
+      "canonical": "error-logs",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPricingOptimizer",
+      "sourceKey": "loading-configs",
+      "source": "/Volumes/external/projects/AIPricingOptimizer/frontend/src/pages/Dashboard.js",
+      "canonical": "loading-configs",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPricingOptimizer",
+      "sourceKey": "rbac-policies",
+      "source": "/Volumes/external/projects/AIPricingOptimizer/frontend/src/pages/Dashboard.js",
+      "canonical": "rbac-policies",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPricingOptimizer",
+      "sourceKey": "rate-limit-logs",
+      "source": "/Volumes/external/projects/AIPricingOptimizer/frontend/src/pages/Dashboard.js",
+      "canonical": "rate-limit-logs",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPricingOptimizer",
+      "sourceKey": "security-headers",
+      "source": "/Volumes/external/projects/AIPricingOptimizer/frontend/src/pages/Dashboard.js",
+      "canonical": "security-headers",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPricingOptimizer",
+      "sourceKey": "email-verifications",
+      "source": "/Volumes/external/projects/AIPricingOptimizer/frontend/src/pages/Dashboard.js",
+      "canonical": "email-verifications",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPricingOptimizer",
+      "sourceKey": "password-validations",
+      "source": "/Volumes/external/projects/AIPricingOptimizer/frontend/src/pages/Dashboard.js",
+      "canonical": "password-validations",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPricingOptimizer",
+      "sourceKey": "cf-agentic-pricing-optimization",
+      "source": "/Volumes/external/projects/AIPricingOptimizer",
+      "canonical": "agentic-pricing-optimization",
+      "kind": "route"
+    },
+    {
+      "project": "AIPricingOptimizer",
+      "sourceKey": "cf-demand-forecasting-ensemble",
+      "source": "/Volumes/external/projects/AIPricingOptimizer",
+      "canonical": "demand-forecasting-ensemble",
+      "kind": "route"
+    },
+    {
+      "project": "AIPricingOptimizer",
+      "sourceKey": "cf-price-elasticity-modeling",
+      "source": "/Volumes/external/projects/AIPricingOptimizer",
+      "canonical": "price-elasticity-modeling",
+      "kind": "route"
+    },
+    {
+      "project": "AIPricingOptimizer",
+      "sourceKey": "cf-competitive-intelligence",
+      "source": "/Volumes/external/projects/AIPricingOptimizer",
+      "canonical": "competitive-intelligence",
+      "kind": "route"
+    },
+    {
+      "project": "AIPricingOptimizer",
+      "sourceKey": "cf-discount-optimization",
+      "source": "/Volumes/external/projects/AIPricingOptimizer",
+      "canonical": "discount-optimization",
+      "kind": "route"
+    },
+    {
+      "project": "AIPricingOptimizer",
+      "sourceKey": "gap-stronger-price-elasticity-models-per",
+      "source": "/Volumes/external/projects/AIPricingOptimizer",
+      "canonical": "stronger-price-elasticity-models-per",
+      "kind": "route"
+    },
+    {
+      "project": "AIPricingOptimizer",
+      "sourceKey": "gap-no-auto",
+      "source": "/Volumes/external/projects/AIPricingOptimizer",
+      "canonical": "auto",
+      "kind": "route"
+    },
+    {
+      "project": "AIPricingOptimizer",
+      "sourceKey": "gap-no-customer",
+      "source": "/Volumes/external/projects/AIPricingOptimizer",
+      "canonical": "clients",
+      "kind": "route"
+    },
+    {
+      "project": "AIPricingOptimizer",
+      "sourceKey": "gap-no-dedicated-routes-directory-all-inline",
+      "source": "/Volumes/external/projects/AIPricingOptimizer",
+      "canonical": "dedicated-routes-directory-all-inline",
+      "kind": "route"
+    },
+    {
+      "project": "AIPricingOptimizer",
+      "sourceKey": "gap-no-webhooks-for-price",
+      "source": "/Volumes/external/projects/AIPricingOptimizer",
+      "canonical": "webhooks-for-price",
+      "kind": "route"
+    },
+    {
+      "project": "AIPricingOptimizer",
+      "sourceKey": "gap-limited-integrations-no-shopify-amazon-ebay-adapte",
+      "source": "/Volumes/external/projects/AIPricingOptimizer",
+      "canonical": "limited-integrations-no-shopify-amazon-ebay-adapte",
+      "kind": "route"
+    },
+    {
+      "project": "AIPricingOptimizer",
+      "sourceKey": "gap-no-notifications-module",
+      "source": "/Volumes/external/projects/AIPricingOptimizer",
+      "canonical": "notifications-module",
+      "kind": "route"
+    },
+    {
+      "project": "AISubscriptionBoxCurator",
+      "sourceKey": "/api/ai/curate-box",
+      "source": "/Volumes/external/projects/AISubscriptionBoxCurator/frontend/src/pages/AIFeaturePage.jsx",
+      "canonical": "api-ai-curate-box",
+      "kind": "definition"
+    },
+    {
+      "project": "AISubscriptionBoxCurator",
+      "sourceKey": "/api/ai/discover-products",
+      "source": "/Volumes/external/projects/AISubscriptionBoxCurator/frontend/src/pages/AIFeaturePage.jsx",
+      "canonical": "api-ai-discover-products",
+      "kind": "definition"
+    },
+    {
+      "project": "AISubscriptionBoxCurator",
+      "sourceKey": "/api/ai/optimize-price",
+      "source": "/Volumes/external/projects/AISubscriptionBoxCurator/frontend/src/pages/AIFeaturePage.jsx",
+      "canonical": "api-ai-optimize-price",
+      "kind": "definition"
+    },
+    {
+      "project": "AISubscriptionBoxCurator",
+      "sourceKey": "/api/ai/generate-theme",
+      "source": "/Volumes/external/projects/AISubscriptionBoxCurator/frontend/src/pages/AIFeaturePage.jsx",
+      "canonical": "api-ai-generate-theme",
+      "kind": "definition"
+    },
+    {
+      "project": "AISubscriptionBoxCurator",
+      "sourceKey": "/api/ai/write-description",
+      "source": "/Volumes/external/projects/AISubscriptionBoxCurator/frontend/src/pages/AIFeaturePage.jsx",
+      "canonical": "api-ai-write-description",
+      "kind": "definition"
+    },
+    {
+      "project": "AISubscriptionBoxCurator",
+      "sourceKey": "/api/ai/analyze-feedback",
+      "source": "/Volumes/external/projects/AISubscriptionBoxCurator/frontend/src/pages/AIFeaturePage.jsx",
+      "canonical": "api-ai-analyze-feedback",
+      "kind": "definition"
+    },
+    {
+      "project": "AISubscriptionBoxCurator",
+      "sourceKey": "/api/ai/forecast-demand",
+      "source": "/Volumes/external/projects/AISubscriptionBoxCurator/frontend/src/pages/AIFeaturePage.jsx",
+      "canonical": "demand-forecasts",
+      "kind": "definition"
+    },
+    {
+      "project": "AISubscriptionBoxCurator",
+      "sourceKey": "/api/ai/personalize-recommendations",
+      "source": "/Volumes/external/projects/AISubscriptionBoxCurator/frontend/src/pages/AIFeaturePage.jsx",
+      "canonical": "api-ai-personalize-recommendations",
+      "kind": "definition"
+    },
+    {
+      "project": "AISubscriptionBoxCurator",
+      "sourceKey": "/api/ai/generate-marketing",
+      "source": "/Volumes/external/projects/AISubscriptionBoxCurator/frontend/src/pages/AIFeaturePage.jsx",
+      "canonical": "api-ai-generate-marketing",
+      "kind": "definition"
+    },
+    {
+      "project": "AISubscriptionBoxCurator",
+      "sourceKey": "/api/ai/score-quality",
+      "source": "/Volumes/external/projects/AISubscriptionBoxCurator/frontend/src/pages/AIFeaturePage.jsx",
+      "canonical": "api-ai-score-quality",
+      "kind": "definition"
+    },
+    {
+      "project": "AISubscriptionBoxCurator",
+      "sourceKey": "/api/ai/analyze-trends",
+      "source": "/Volumes/external/projects/AISubscriptionBoxCurator/frontend/src/pages/AIFeaturePage.jsx",
+      "canonical": "api-ai-analyze-trends",
+      "kind": "definition"
+    },
+    {
+      "project": "AISubscriptionBoxCurator",
+      "sourceKey": "/api/ai/segment-customers",
+      "source": "/Volumes/external/projects/AISubscriptionBoxCurator/frontend/src/pages/AIFeaturePage.jsx",
+      "canonical": "api-ai-segment-customers",
+      "kind": "definition"
+    },
+    {
+      "project": "AISubscriptionBoxCurator",
+      "sourceKey": "/api/ai/customer-ltv",
+      "source": "/Volumes/external/projects/AISubscriptionBoxCurator/frontend/src/pages/AIFeaturePage.jsx",
+      "canonical": "api-ai-customer-ltv",
+      "kind": "definition"
+    },
+    {
+      "project": "AISubscriptionBoxCurator",
+      "sourceKey": "/api/ai/unboxing-arrangement",
+      "source": "/Volumes/external/projects/AISubscriptionBoxCurator/frontend/src/pages/AIFeaturePage.jsx",
+      "canonical": "api-ai-unboxing-arrangement",
+      "kind": "definition"
+    },
+    {
+      "project": "AISubscriptionBoxCurator",
+      "sourceKey": "/api/ai/competitor-price-monitor",
+      "source": "/Volumes/external/projects/AISubscriptionBoxCurator/frontend/src/pages/AIFeaturePage.jsx",
+      "canonical": "api-ai-competitor-price-monitor",
+      "kind": "definition"
+    },
+    {
+      "project": "AISubscriptionBoxCurator",
+      "sourceKey": "/api/ai/preference-bandit",
+      "source": "/Volumes/external/projects/AISubscriptionBoxCurator/frontend/src/pages/AIFeaturePage.jsx",
+      "canonical": "api-ai-preference-bandit",
+      "kind": "definition"
+    },
+    {
+      "project": "AISubscriptionBoxCurator",
+      "sourceKey": "subscription-boxes",
+      "source": "/Volumes/external/projects/AISubscriptionBoxCurator",
+      "canonical": "subscription-boxes",
+      "kind": "route"
+    },
+    {
+      "project": "AISubscriptionBoxCurator",
+      "sourceKey": "products",
+      "source": "/Volumes/external/projects/AISubscriptionBoxCurator",
+      "canonical": "products",
+      "kind": "route"
+    },
+    {
+      "project": "AISubscriptionBoxCurator",
+      "sourceKey": "customers",
+      "source": "/Volumes/external/projects/AISubscriptionBoxCurator",
+      "canonical": "clients",
+      "kind": "route"
+    },
+    {
+      "project": "AISubscriptionBoxCurator",
+      "sourceKey": "orders",
+      "source": "/Volumes/external/projects/AISubscriptionBoxCurator",
+      "canonical": "orders",
+      "kind": "route"
+    },
+    {
+      "project": "AISubscriptionBoxCurator",
+      "sourceKey": "feedback",
+      "source": "/Volumes/external/projects/AISubscriptionBoxCurator",
+      "canonical": "feedback",
+      "kind": "route"
+    },
+    {
+      "project": "AISubscriptionBoxCurator",
+      "sourceKey": "quiz",
+      "source": "/Volumes/external/projects/AISubscriptionBoxCurator",
+      "canonical": "quiz",
+      "kind": "route"
+    },
+    {
+      "project": "AISubscriptionBoxCurator",
+      "sourceKey": "churn",
+      "source": "/Volumes/external/projects/AISubscriptionBoxCurator",
+      "canonical": "churn",
+      "kind": "route"
+    },
+    {
+      "project": "AISubscriptionBoxCurator",
+      "sourceKey": "cf-seasonal-demand-forecasting-for-inventory-spikes-around-holidays",
+      "source": "/Volumes/external/projects/AISubscriptionBoxCurator",
+      "canonical": "seasonal-demand-forecasting-for-inventory-spikes-around-holidays",
+      "kind": "route"
+    },
+    {
+      "project": "AISubscriptionBoxCurator",
+      "sourceKey": "cf-unboxing-experience-optimization-with-ai-suggested-product-arrangement",
+      "source": "/Volumes/external/projects/AISubscriptionBoxCurator",
+      "canonical": "unboxing-experience-optimization-with-ai-suggested-product-arrangement",
+      "kind": "route"
+    },
+    {
+      "project": "AISubscriptionBoxCurator",
+      "sourceKey": "cf-competitor-price-monitoring-with-repricing-recommendations",
+      "source": "/Volumes/external/projects/AISubscriptionBoxCurator",
+      "canonical": "competitor-price-monitoring-with-repricing-recommendations",
+      "kind": "route"
+    },
+    {
+      "project": "AISubscriptionBoxCurator",
+      "sourceKey": "cf-customer-lifetime-value-prediction-to-guide-acquisition-spend",
+      "source": "/Volumes/external/projects/AISubscriptionBoxCurator",
+      "canonical": "customer-lifetime-value-prediction-to-guide-acquisition-spend",
+      "kind": "route"
+    },
+    {
+      "project": "AISubscriptionBoxCurator",
+      "sourceKey": "cf-multi-armed-bandit-preference-learning-loop-for-product-discovery",
+      "source": "/Volumes/external/projects/AISubscriptionBoxCurator",
+      "canonical": "multi-armed-bandit-preference-learning-loop-for-product-discovery",
+      "kind": "route"
+    },
+    {
+      "project": "AISubscriptionBoxCurator",
+      "sourceKey": "cf-logistics-integrated-address-validation-and-label-generation",
+      "source": "/Volumes/external/projects/AISubscriptionBoxCurator",
+      "canonical": "logistics-integrated-address-validation-and-label-generation",
+      "kind": "route"
+    },
+    {
+      "project": "AISubscriptionBoxCurator",
+      "sourceKey": "gap-ai-endpoints-cover-the-curation-workflow-well",
+      "source": "/Volumes/external/projects/AISubscriptionBoxCurator",
+      "canonical": "ai-endpoints-cover-the-curation-workflow-well",
+      "kind": "route"
+    },
+    {
+      "project": "AISubscriptionBoxCurator",
+      "sourceKey": "gap-no-vision-based-product-image-quality-scoring",
+      "source": "/Volumes/external/projects/AISubscriptionBoxCurator",
+      "canonical": "vision-based-product-image-quality-scoring",
+      "kind": "route"
+    },
+    {
+      "project": "AISubscriptionBoxCurator",
+      "sourceKey": "gap-no-conversational-box-customization-chatbot",
+      "source": "/Volumes/external/projects/AISubscriptionBoxCurator",
+      "canonical": "conversational-box-customization-chatbot",
+      "kind": "route"
+    },
+    {
+      "project": "AISubscriptionBoxCurator",
+      "sourceKey": "gap-no-marketing-email-sequences-for-onboarding-retention",
+      "source": "/Volumes/external/projects/AISubscriptionBoxCurator",
+      "canonical": "marketing-email-sequences-for-onboarding-retention",
+      "kind": "route"
+    },
+    {
+      "project": "AISubscriptionBoxCurator",
+      "sourceKey": "gap-no-integrations-with-logistics-fulfillment-platforms-shippo-shipstation",
+      "source": "/Volumes/external/projects/AISubscriptionBoxCurator",
+      "canonical": "integrations-with-logistics-fulfillment-platforms-shippo-shipstation",
+      "kind": "route"
+    },
+    {
+      "project": "AISubscriptionBoxCurator",
+      "sourceKey": "gap-no-referral-affiliate-tracking",
+      "source": "/Volumes/external/projects/AISubscriptionBoxCurator",
+      "canonical": "referral-affiliate-tracking",
+      "kind": "route"
+    },
+    {
+      "project": "AISubscriptionBoxCurator",
+      "sourceKey": "gap-no-pause-skip-subscription-functionality",
+      "source": "/Volumes/external/projects/AISubscriptionBoxCurator",
+      "canonical": "pause-skip-subscription-functionality",
+      "kind": "route"
+    },
+    {
+      "project": "AISubscriptionBoxCurator",
+      "sourceKey": "gap-no-gift-subscription-workflow",
+      "source": "/Volumes/external/projects/AISubscriptionBoxCurator",
+      "canonical": "gift-subscription-workflow",
+      "kind": "route"
+    },
+    {
+      "project": "AISubscriptionBoxCurator",
+      "sourceKey": "gap-no-webhooks-or-notifications",
+      "source": "/Volumes/external/projects/AISubscriptionBoxCurator",
+      "canonical": "webhooks-or-notifications",
+      "kind": "route"
+    },
+    {
+      "project": "AISubscriptionBoxCurator",
+      "sourceKey": "gap-no-payment-processor-integration",
+      "source": "/Volumes/external/projects/AISubscriptionBoxCurator",
+      "canonical": "payment-processor-integration",
+      "kind": "route"
+    },
+    {
+      "project": "AIVirtualShowroomBuilder",
+      "sourceKey": "/models3d",
+      "source": "/Volumes/external/projects/AIVirtualShowroomBuilder/client/src/components/Sidebar.jsx",
+      "canonical": "models3d",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVirtualShowroomBuilder",
+      "sourceKey": "/layouts",
+      "source": "/Volumes/external/projects/AIVirtualShowroomBuilder/client/src/components/Sidebar.jsx",
+      "canonical": "layouts",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVirtualShowroomBuilder",
+      "sourceKey": "/artryons",
+      "source": "/Volumes/external/projects/AIVirtualShowroomBuilder/client/src/components/Sidebar.jsx",
+      "canonical": "artryons",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVirtualShowroomBuilder",
+      "sourceKey": "/descriptions",
+      "source": "/Volumes/external/projects/AIVirtualShowroomBuilder/client/src/components/Sidebar.jsx",
+      "canonical": "descriptions",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVirtualShowroomBuilder",
+      "sourceKey": "/styles",
+      "source": "/Volumes/external/projects/AIVirtualShowroomBuilder/client/src/components/Sidebar.jsx",
+      "canonical": "styles",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVirtualShowroomBuilder",
+      "sourceKey": "/products",
+      "source": "/Volumes/external/projects/AIVirtualShowroomBuilder/client/src/components/Sidebar.jsx",
+      "canonical": "products",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVirtualShowroomBuilder",
+      "sourceKey": "/customers",
+      "source": "/Volumes/external/projects/AIVirtualShowroomBuilder/client/src/components/Sidebar.jsx",
+      "canonical": "clients",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVirtualShowroomBuilder",
+      "sourceKey": "/orders",
+      "source": "/Volumes/external/projects/AIVirtualShowroomBuilder/client/src/components/Sidebar.jsx",
+      "canonical": "orders",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVirtualShowroomBuilder",
+      "sourceKey": "/inventory",
+      "source": "/Volumes/external/projects/AIVirtualShowroomBuilder/client/src/components/Sidebar.jsx",
+      "canonical": "inventory",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVirtualShowroomBuilder",
+      "sourceKey": "/themes",
+      "source": "/Volumes/external/projects/AIVirtualShowroomBuilder/client/src/components/Sidebar.jsx",
+      "canonical": "themes",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVirtualShowroomBuilder",
+      "sourceKey": "/promotions",
+      "source": "/Volumes/external/projects/AIVirtualShowroomBuilder/client/src/components/Sidebar.jsx",
+      "canonical": "promotions",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVirtualShowroomBuilder",
+      "sourceKey": "/reviews",
+      "source": "/Volumes/external/projects/AIVirtualShowroomBuilder/client/src/components/Sidebar.jsx",
+      "canonical": "reviews",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVirtualShowroomBuilder",
+      "sourceKey": "/analytics",
+      "source": "/Volumes/external/projects/AIVirtualShowroomBuilder/client/src/components/Sidebar.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVirtualShowroomBuilder",
+      "sourceKey": "/conversions",
+      "source": "/Volumes/external/projects/AIVirtualShowroomBuilder/client/src/components/Sidebar.jsx",
+      "canonical": "conversions",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVirtualShowroomBuilder",
+      "sourceKey": "/ai-tools/room-layout",
+      "source": "/Volumes/external/projects/AIVirtualShowroomBuilder/client/src/pages/AIToolsHub.jsx",
+      "canonical": "room-layout",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVirtualShowroomBuilder",
+      "sourceKey": "/ai-tools/description-enhancer",
+      "source": "/Volumes/external/projects/AIVirtualShowroomBuilder/client/src/pages/AIToolsHub.jsx",
+      "canonical": "description-enhancer",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVirtualShowroomBuilder",
+      "sourceKey": "/ai-tools/lighting-mood",
+      "source": "/Volumes/external/projects/AIVirtualShowroomBuilder/client/src/pages/AIToolsHub.jsx",
+      "canonical": "lighting-mood",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVirtualShowroomBuilder",
+      "sourceKey": "/ai-tools/visitor-behavior",
+      "source": "/Volumes/external/projects/AIVirtualShowroomBuilder/client/src/pages/AIToolsHub.jsx",
+      "canonical": "visitor-behavior",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVirtualShowroomBuilder",
+      "sourceKey": "/ai-tools/comparison",
+      "source": "/Volumes/external/projects/AIVirtualShowroomBuilder/client/src/pages/AIToolsHub.jsx",
+      "canonical": "comparison",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVirtualShowroomBuilder",
+      "sourceKey": "/ai-tools/product-recommendations",
+      "source": "/Volumes/external/projects/AIVirtualShowroomBuilder/client/src/pages/AIToolsHub.jsx",
+      "canonical": "product-recommendations",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVirtualShowroomBuilder",
+      "sourceKey": "/ai-tools/merchandising-optimizer",
+      "source": "/Volumes/external/projects/AIVirtualShowroomBuilder/client/src/pages/AIToolsHub.jsx",
+      "canonical": "merchandising-optimizer",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVirtualShowroomBuilder",
+      "sourceKey": "/ai-tools/seasonal-layout",
+      "source": "/Volumes/external/projects/AIVirtualShowroomBuilder/client/src/pages/AIToolsHub.jsx",
+      "canonical": "seasonal-layout",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVirtualShowroomBuilder",
+      "sourceKey": "/ai-tools/customer-journey-heatmap",
+      "source": "/Volumes/external/projects/AIVirtualShowroomBuilder/client/src/pages/AIToolsHub.jsx",
+      "canonical": "customer-journey-heatmap",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVirtualShowroomBuilder",
+      "sourceKey": "/ai-tools/competitor-analysis",
+      "source": "/Volumes/external/projects/AIVirtualShowroomBuilder/client/src/pages/AIToolsHub.jsx",
+      "canonical": "competitor-analysis",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVirtualShowroomBuilder",
+      "sourceKey": "/ai-tools/history",
+      "source": "/Volumes/external/projects/AIVirtualShowroomBuilder/client/src/pages/AIToolsHub.jsx",
+      "canonical": "history",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVirtualShowroomBuilder",
+      "sourceKey": "/layouts",
+      "source": "/Volumes/external/projects/AIVirtualShowroomBuilder/client/src/pages/Dashboard.jsx",
+      "canonical": "layouts",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVirtualShowroomBuilder",
+      "sourceKey": "/artryons",
+      "source": "/Volumes/external/projects/AIVirtualShowroomBuilder/client/src/pages/Dashboard.jsx",
+      "canonical": "artryons",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVirtualShowroomBuilder",
+      "sourceKey": "/descriptions",
+      "source": "/Volumes/external/projects/AIVirtualShowroomBuilder/client/src/pages/Dashboard.jsx",
+      "canonical": "descriptions",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVirtualShowroomBuilder",
+      "sourceKey": "/styles",
+      "source": "/Volumes/external/projects/AIVirtualShowroomBuilder/client/src/pages/Dashboard.jsx",
+      "canonical": "styles",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVirtualShowroomBuilder",
+      "sourceKey": "/customers",
+      "source": "/Volumes/external/projects/AIVirtualShowroomBuilder/client/src/pages/Dashboard.jsx",
+      "canonical": "clients",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVirtualShowroomBuilder",
+      "sourceKey": "/orders",
+      "source": "/Volumes/external/projects/AIVirtualShowroomBuilder/client/src/pages/Dashboard.jsx",
+      "canonical": "orders",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVirtualShowroomBuilder",
+      "sourceKey": "/inventory",
+      "source": "/Volumes/external/projects/AIVirtualShowroomBuilder/client/src/pages/Dashboard.jsx",
+      "canonical": "inventory",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVirtualShowroomBuilder",
+      "sourceKey": "/promotions",
+      "source": "/Volumes/external/projects/AIVirtualShowroomBuilder/client/src/pages/Dashboard.jsx",
+      "canonical": "promotions",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVirtualShowroomBuilder",
+      "sourceKey": "/reviews",
+      "source": "/Volumes/external/projects/AIVirtualShowroomBuilder/client/src/pages/Dashboard.jsx",
+      "canonical": "reviews",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVirtualShowroomBuilder",
+      "sourceKey": "cf-personalized-product-recommendations-from-browsing-behavior",
+      "source": "/Volumes/external/projects/AIVirtualShowroomBuilder",
+      "canonical": "personalized-product-recommendations-from-browsing-behavior",
+      "kind": "route"
+    },
+    {
+      "project": "AIVirtualShowroomBuilder",
+      "sourceKey": "cf-visual-merchandising-optimizer-using-conversion-data",
+      "source": "/Volumes/external/projects/AIVirtualShowroomBuilder",
+      "canonical": "visual-merchandising-optimizer-using-conversion-data",
+      "kind": "route"
+    },
+    {
+      "project": "AIVirtualShowroomBuilder",
+      "sourceKey": "cf-customer-journey-heatmap-visualizing-dwell-time",
+      "source": "/Volumes/external/projects/AIVirtualShowroomBuilder",
+      "canonical": "customer-journey-heatmap-visualizing-dwell-time",
+      "kind": "route"
+    },
+    {
+      "project": "AIVirtualShowroomBuilder",
+      "sourceKey": "cf-competitor-showroom-analysis-adapting-layouts",
+      "source": "/Volumes/external/projects/AIVirtualShowroomBuilder",
+      "canonical": "competitor-showroom-analysis-adapting-layouts",
+      "kind": "route"
+    },
+    {
+      "project": "AIVirtualShowroomBuilder",
+      "sourceKey": "cf-seasonal-layout-promotion-recommender",
+      "source": "/Volumes/external/projects/AIVirtualShowroomBuilder",
+      "canonical": "seasonal-layout-promotion-recommender",
+      "kind": "route"
+    },
+    {
+      "project": "AIVirtualShowroomBuilder",
+      "sourceKey": "cf-3d-model-auto-generation-from-product-photos",
+      "source": "/Volumes/external/projects/AIVirtualShowroomBuilder",
+      "canonical": "3d-model-auto-generation-from-product-photos",
+      "kind": "route"
+    },
+    {
+      "project": "AIVirtualShowroomBuilder",
+      "sourceKey": "gap-no-ai-driven-personalized-product-recommendations",
+      "source": "/Volumes/external/projects/AIVirtualShowroomBuilder",
+      "canonical": "ai-driven-personalized-product-recommendations",
+      "kind": "route"
+    },
+    {
+      "project": "AIVirtualShowroomBuilder",
+      "sourceKey": "gap-no-ai-visual-merchandising-optimizer",
+      "source": "/Volumes/external/projects/AIVirtualShowroomBuilder",
+      "canonical": "ai-visual-merchandising-optimizer",
+      "kind": "route"
+    },
+    {
+      "project": "AIVirtualShowroomBuilder",
+      "sourceKey": "gap-no-ai-generated-3d-model-auto-rigging-from-photos",
+      "source": "/Volumes/external/projects/AIVirtualShowroomBuilder",
+      "canonical": "ai-generated-3d-model-auto-rigging-from-photos",
+      "kind": "route"
+    },
+    {
+      "project": "AIVirtualShowroomBuilder",
+      "sourceKey": "gap-no-native-webar-webxr-platform-integration",
+      "source": "/Volumes/external/projects/AIVirtualShowroomBuilder",
+      "canonical": "native-webar-webxr-platform-integration",
+      "kind": "route"
+    },
+    {
+      "project": "AIVirtualShowroomBuilder",
+      "sourceKey": "gap-no-customer-path-heatmap-visualization",
+      "source": "/Volumes/external/projects/AIVirtualShowroomBuilder",
+      "canonical": "customer-path-heatmap-visualization",
+      "kind": "route"
+    },
+    {
+      "project": "AIVirtualShowroomBuilder",
+      "sourceKey": "gap-no-pos-inventory-sync",
+      "source": "/Volumes/external/projects/AIVirtualShowroomBuilder",
+      "canonical": "pos-inventory-sync",
+      "kind": "route"
+    },
+    {
+      "project": "AIVirtualShowroomBuilder",
+      "sourceKey": "gap-no-webhooks",
+      "source": "/Volumes/external/projects/AIVirtualShowroomBuilder",
+      "canonical": "webhooks",
+      "kind": "route"
+    },
+    {
+      "project": "AIVirtualShowroomBuilder",
+      "sourceKey": "gap-no-notifications-subsystem",
+      "source": "/Volumes/external/projects/AIVirtualShowroomBuilder",
+      "canonical": "notifications-subsystem",
+      "kind": "route"
+    },
+    {
+      "project": "dropShipping",
+      "sourceKey": "products",
+      "source": "/Volumes/external/projects/dropShipping/src/lib/features.ts",
+      "canonical": "products",
+      "kind": "definition"
+    },
+    {
+      "project": "dropShipping",
+      "sourceKey": "suppliers",
+      "source": "/Volumes/external/projects/dropShipping/src/lib/features.ts",
+      "canonical": "growth-os-suppliers",
+      "kind": "definition"
+    },
+    {
+      "project": "dropShipping",
+      "sourceKey": "orders",
+      "source": "/Volumes/external/projects/dropShipping/src/lib/features.ts",
+      "canonical": "orders",
+      "kind": "definition"
+    },
+    {
+      "project": "dropShipping",
+      "sourceKey": "customers",
+      "source": "/Volumes/external/projects/dropShipping/src/lib/features.ts",
+      "canonical": "clients",
+      "kind": "definition"
+    },
+    {
+      "project": "dropShipping",
+      "sourceKey": "inventory",
+      "source": "/Volumes/external/projects/dropShipping/src/lib/features.ts",
+      "canonical": "inventory",
+      "kind": "definition"
+    },
+    {
+      "project": "dropShipping",
+      "sourceKey": "campaigns",
+      "source": "/Volumes/external/projects/dropShipping/src/lib/features.ts",
+      "canonical": "campaigns",
+      "kind": "definition"
+    },
+    {
+      "project": "dropShipping",
+      "sourceKey": "channels",
+      "source": "/Volumes/external/projects/dropShipping/src/lib/features.ts",
+      "canonical": "channels",
+      "kind": "definition"
+    },
+    {
+      "project": "dropShipping",
+      "sourceKey": "pricing-rules",
+      "source": "/Volumes/external/projects/dropShipping/src/lib/features.ts",
+      "canonical": "pricing-rules",
+      "kind": "definition"
+    },
+    {
+      "project": "dropShipping",
+      "sourceKey": "reviews",
+      "source": "/Volumes/external/projects/dropShipping/src/lib/features.ts",
+      "canonical": "reviews",
+      "kind": "definition"
+    },
+    {
+      "project": "dropShipping",
+      "sourceKey": "returns",
+      "source": "/Volumes/external/projects/dropShipping/src/lib/features.ts",
+      "canonical": "returns",
+      "kind": "definition"
+    },
+    {
+      "project": "dropShipping",
+      "sourceKey": "shipments",
+      "source": "/Volumes/external/projects/dropShipping/src/lib/features.ts",
+      "canonical": "shipments",
+      "kind": "definition"
+    },
+    {
+      "project": "ebay",
+      "sourceKey": "ebay",
+      "source": "/Volumes/external/projects/ebay",
+      "canonical": "ebay",
+      "kind": "source-workflow"
+    },
+    {
+      "project": "ebay-clone",
+      "sourceKey": "demand-seasonality",
+      "source": "/Volumes/external/projects/ebay-clone",
+      "canonical": "demand-seasonality",
+      "kind": "route"
+    },
+    {
+      "project": "ebay-clone",
+      "sourceKey": "seller-reputation-forecast",
+      "source": "/Volumes/external/projects/ebay-clone",
+      "canonical": "seller-reputation-forecast",
+      "kind": "route"
+    },
+    {
+      "project": "ebay-clone",
+      "sourceKey": "counterfeit-detect",
+      "source": "/Volumes/external/projects/ebay-clone",
+      "canonical": "counterfeit-detect",
+      "kind": "route"
+    },
+    {
+      "project": "ebay-clone",
+      "sourceKey": "dynamic-shipping",
+      "source": "/Volumes/external/projects/ebay-clone",
+      "canonical": "dynamic-shipping",
+      "kind": "route"
+    },
+    {
+      "project": "ebay-clone",
+      "sourceKey": "repeat-purchase",
+      "source": "/Volumes/external/projects/ebay-clone",
+      "canonical": "repeat-purchase",
+      "kind": "route"
+    },
+    {
+      "project": "ebay-clone",
+      "sourceKey": "auto-source",
+      "source": "/Volumes/external/projects/ebay-clone",
+      "canonical": "auto-source",
+      "kind": "route"
+    },
+    {
+      "project": "ebay-clone",
+      "sourceKey": "auction-ending",
+      "source": "/Volumes/external/projects/ebay-clone",
+      "canonical": "auction-ending",
+      "kind": "route"
+    },
+    {
+      "project": "ebay-clone",
+      "sourceKey": "payment-fraud",
+      "source": "/Volumes/external/projects/ebay-clone",
+      "canonical": "payment-fraud",
+      "kind": "route"
+    },
+    {
+      "project": "ebay-clone",
+      "sourceKey": "cart",
+      "source": "/Volumes/external/projects/ebay-clone",
+      "canonical": "cart",
+      "kind": "route"
+    },
+    {
+      "project": "ebay-clone",
+      "sourceKey": "checkout",
+      "source": "/Volumes/external/projects/ebay-clone",
+      "canonical": "checkout",
+      "kind": "route"
+    },
+    {
+      "project": "ebay-clone",
+      "sourceKey": "orders",
+      "source": "/Volumes/external/projects/ebay-clone",
+      "canonical": "orders",
+      "kind": "route"
+    },
+    {
+      "project": "ebay-clone",
+      "sourceKey": "watchlist",
+      "source": "/Volumes/external/projects/ebay-clone",
+      "canonical": "watchlist",
+      "kind": "route"
+    },
+    {
+      "project": "ebay-clone",
+      "sourceKey": "sell",
+      "source": "/Volumes/external/projects/ebay-clone",
+      "canonical": "sell",
+      "kind": "route"
+    },
+    {
+      "project": "ebay-clone",
+      "sourceKey": "seller/dashboard",
+      "source": "/Volumes/external/projects/ebay-clone",
+      "canonical": "seller-dashboard",
+      "kind": "route"
+    },
+    {
+      "project": "ebay-clone",
+      "sourceKey": "seller/orders",
+      "source": "/Volumes/external/projects/ebay-clone",
+      "canonical": "orders",
+      "kind": "route"
+    },
+    {
+      "project": "ebay-clone",
+      "sourceKey": "seller/onboarding",
+      "source": "/Volumes/external/projects/ebay-clone",
+      "canonical": "seller-onboarding",
+      "kind": "route"
+    },
+    {
+      "project": "ebay-clone",
+      "sourceKey": "my-listings",
+      "source": "/Volumes/external/projects/ebay-clone",
+      "canonical": "my-listings",
+      "kind": "route"
+    },
+    {
+      "project": "ebay-clone",
+      "sourceKey": "admin",
+      "source": "/Volumes/external/projects/ebay-clone",
+      "canonical": "admin",
+      "kind": "route"
+    },
+    {
+      "project": "ebay-clone",
+      "sourceKey": "disputes",
+      "source": "/Volumes/external/projects/ebay-clone",
+      "canonical": "disputes",
+      "kind": "route"
+    },
+    {
+      "project": "ebay-clone",
+      "sourceKey": "returns",
+      "source": "/Volumes/external/projects/ebay-clone",
+      "canonical": "returns",
+      "kind": "route"
+    },
+    {
+      "project": "ebay-clone",
+      "sourceKey": "security",
+      "source": "/Volumes/external/projects/ebay-clone",
+      "canonical": "security",
+      "kind": "route"
+    },
+    {
+      "project": "ebay-clone",
+      "sourceKey": "saved-searches",
+      "source": "/Volumes/external/projects/ebay-clone",
+      "canonical": "saved-searches",
+      "kind": "route"
+    },
+    {
+      "project": "ebay-clone",
+      "sourceKey": "addresses",
+      "source": "/Volumes/external/projects/ebay-clone",
+      "canonical": "addresses",
+      "kind": "route"
+    },
+    {
+      "project": "ebay-clone",
+      "sourceKey": "payment-methods",
+      "source": "/Volumes/external/projects/ebay-clone",
+      "canonical": "payment-methods",
+      "kind": "route"
+    },
+    {
+      "project": "ebay-clone",
+      "sourceKey": "collections",
+      "source": "/Volumes/external/projects/ebay-clone",
+      "canonical": "collections",
+      "kind": "route"
+    },
+    {
+      "project": "ebay-clone",
+      "sourceKey": "rewards",
+      "source": "/Volumes/external/projects/ebay-clone",
+      "canonical": "rewards",
+      "kind": "route"
+    },
+    {
+      "project": "ebay-clone",
+      "sourceKey": "payment-plans",
+      "source": "/Volumes/external/projects/ebay-clone",
+      "canonical": "payment-plans",
+      "kind": "route"
+    },
+    {
+      "project": "ebay-clone",
+      "sourceKey": "price-alerts",
+      "source": "/Volumes/external/projects/ebay-clone",
+      "canonical": "price-alerts",
+      "kind": "route"
+    },
+    {
+      "project": "ebay-clone",
+      "sourceKey": "my-offers",
+      "source": "/Volumes/external/projects/ebay-clone",
+      "canonical": "my-offers",
+      "kind": "route"
+    },
+    {
+      "project": "ebay-clone",
+      "sourceKey": "bulk-upload",
+      "source": "/Volumes/external/projects/ebay-clone",
+      "canonical": "bulk-upload",
+      "kind": "route"
+    },
+    {
+      "project": "ebay-clone",
+      "sourceKey": "scheduled-listings",
+      "source": "/Volumes/external/projects/ebay-clone",
+      "canonical": "scheduled-listings",
+      "kind": "route"
+    },
+    {
+      "project": "ebay-clone",
+      "sourceKey": "listing-templates",
+      "source": "/Volumes/external/projects/ebay-clone",
+      "canonical": "listing-templates",
+      "kind": "route"
+    },
+    {
+      "project": "ebay-clone",
+      "sourceKey": "vacation-mode",
+      "source": "/Volumes/external/projects/ebay-clone",
+      "canonical": "vacation-mode",
+      "kind": "route"
+    },
+    {
+      "project": "ebay-clone",
+      "sourceKey": "compare",
+      "source": "/Volumes/external/projects/ebay-clone",
+      "canonical": "compare",
+      "kind": "route"
+    },
+    {
+      "project": "ebay-clone",
+      "sourceKey": "gift-cards",
+      "source": "/Volumes/external/projects/ebay-clone",
+      "canonical": "gift-cards",
+      "kind": "route"
+    },
+    {
+      "project": "ebay-clone",
+      "sourceKey": "seller/earnings",
+      "source": "/Volumes/external/projects/ebay-clone",
+      "canonical": "seller-earnings",
+      "kind": "route"
+    },
+    {
+      "project": "ebay-clone",
+      "sourceKey": "seller/roi",
+      "source": "/Volumes/external/projects/ebay-clone",
+      "canonical": "seller-roi",
+      "kind": "route"
+    },
+    {
+      "project": "ebay-clone",
+      "sourceKey": "seller/fee-optimizer",
+      "source": "/Volumes/external/projects/ebay-clone",
+      "canonical": "seller-fee-optimizer",
+      "kind": "route"
+    },
+    {
+      "project": "ebay-clone",
+      "sourceKey": "seller/bundle-discounts",
+      "source": "/Volumes/external/projects/ebay-clone",
+      "canonical": "seller-bundle-discounts",
+      "kind": "route"
+    },
+    {
+      "project": "ebay-clone",
+      "sourceKey": "my-feed",
+      "source": "/Volumes/external/projects/ebay-clone",
+      "canonical": "my-feed",
+      "kind": "route"
+    },
+    {
+      "project": "ebay-clone",
+      "sourceKey": "invoices",
+      "source": "/Volumes/external/projects/ebay-clone",
+      "canonical": "billing",
+      "kind": "route"
+    },
+    {
+      "project": "ebay-clone",
+      "sourceKey": "bid-retractions",
+      "source": "/Volumes/external/projects/ebay-clone",
+      "canonical": "bid-retractions",
+      "kind": "route"
+    },
+    {
+      "project": "ebay-clone",
+      "sourceKey": "my-coupons",
+      "source": "/Volumes/external/projects/ebay-clone",
+      "canonical": "my-coupons",
+      "kind": "route"
+    },
+    {
+      "project": "ebay-clone",
+      "sourceKey": "seller/coupons",
+      "source": "/Volumes/external/projects/ebay-clone",
+      "canonical": "coupons",
+      "kind": "route"
+    },
+    {
+      "project": "ebay-clone",
+      "sourceKey": "seller/analytics",
+      "source": "/Volumes/external/projects/ebay-clone",
+      "canonical": "reports",
+      "kind": "route"
+    },
+    {
+      "project": "ebay-clone",
+      "sourceKey": "analytics",
+      "source": "/Volumes/external/projects/ebay-clone",
+      "canonical": "reports",
+      "kind": "route"
+    },
+    {
+      "project": "ebay-clone",
+      "sourceKey": "admin/best-match",
+      "source": "/Volumes/external/projects/ebay-clone",
+      "canonical": "admin-best-match",
+      "kind": "route"
+    },
+    {
+      "project": "ebay-clone",
+      "sourceKey": "admin/experiments",
+      "source": "/Volumes/external/projects/ebay-clone",
+      "canonical": "admin-experiments",
+      "kind": "route"
+    },
+    {
+      "project": "ebay-clone",
+      "sourceKey": "seller/low-stock",
+      "source": "/Volumes/external/projects/ebay-clone",
+      "canonical": "seller-low-stock",
+      "kind": "route"
+    },
+    {
+      "project": "ebay-clone",
+      "sourceKey": "image-search",
+      "source": "/Volumes/external/projects/ebay-clone",
+      "canonical": "image-search",
+      "kind": "route"
+    },
+    {
+      "project": "ebay-clone",
+      "sourceKey": "wallet",
+      "source": "/Volumes/external/projects/ebay-clone",
+      "canonical": "wallet",
+      "kind": "route"
+    },
+    {
+      "project": "ebay-clone",
+      "sourceKey": "referrals",
+      "source": "/Volumes/external/projects/ebay-clone",
+      "canonical": "referrals",
+      "kind": "route"
+    },
+    {
+      "project": "ebay-clone",
+      "sourceKey": "flash-sales",
+      "source": "/Volumes/external/projects/ebay-clone",
+      "canonical": "flash-sales",
+      "kind": "route"
+    },
+    {
+      "project": "ebay-clone",
+      "sourceKey": "group-buys",
+      "source": "/Volumes/external/projects/ebay-clone",
+      "canonical": "group-buys",
+      "kind": "route"
+    },
+    {
+      "project": "ebay-clone",
+      "sourceKey": "for-you",
+      "source": "/Volumes/external/projects/ebay-clone",
+      "canonical": "for-you",
+      "kind": "route"
+    },
+    {
+      "project": "ebay-clone",
+      "sourceKey": "seller/inventory-forecast",
+      "source": "/Volumes/external/projects/ebay-clone",
+      "canonical": "seller-inventory-forecast",
+      "kind": "route"
+    },
+    {
+      "project": "ebay-clone",
+      "sourceKey": "feed",
+      "source": "/Volumes/external/projects/ebay-clone",
+      "canonical": "feed",
+      "kind": "route"
+    },
+    {
+      "project": "ebay-clone",
+      "sourceKey": "deals",
+      "source": "/Volumes/external/projects/ebay-clone",
+      "canonical": "deals",
+      "kind": "route"
+    },
+    {
+      "project": "ebay-clone",
+      "sourceKey": "daily-deals",
+      "source": "/Volumes/external/projects/ebay-clone",
+      "canonical": "daily-deals",
+      "kind": "route"
+    },
+    {
+      "project": "ebay-clone",
+      "sourceKey": "live",
+      "source": "/Volumes/external/projects/ebay-clone",
+      "canonical": "live",
+      "kind": "route"
+    },
+    {
+      "project": "ebay-clone",
+      "sourceKey": "ebay-live",
+      "source": "/Volumes/external/projects/ebay-clone",
+      "canonical": "ebay-live",
+      "kind": "route"
+    },
+    {
+      "project": "ebay-clone",
+      "sourceKey": "team",
+      "source": "/Volumes/external/projects/ebay-clone",
+      "canonical": "team",
+      "kind": "route"
+    },
+    {
+      "project": "ebay-clone",
+      "sourceKey": "team-access",
+      "source": "/Volumes/external/projects/ebay-clone",
+      "canonical": "team-access",
+      "kind": "route"
+    },
+    {
+      "project": "ebay-clone",
+      "sourceKey": "vault",
+      "source": "/Volumes/external/projects/ebay-clone",
+      "canonical": "vault",
+      "kind": "route"
+    },
+    {
+      "project": "ebay-clone",
+      "sourceKey": "categories",
+      "source": "/Volumes/external/projects/ebay-clone",
+      "canonical": "categories",
+      "kind": "route"
+    },
+    {
+      "project": "ebay-clone",
+      "sourceKey": "resolution",
+      "source": "/Volumes/external/projects/ebay-clone",
+      "canonical": "resolution",
+      "kind": "route"
+    },
+    {
+      "project": "ebay-clone",
+      "sourceKey": "membership",
+      "source": "/Volumes/external/projects/ebay-clone",
+      "canonical": "membership",
+      "kind": "route"
+    },
+    {
+      "project": "ebay-clone",
+      "sourceKey": "gsp",
+      "source": "/Volumes/external/projects/ebay-clone",
+      "canonical": "gsp",
+      "kind": "route"
+    },
+    {
+      "project": "ebay-clone",
+      "sourceKey": "global-shipping",
+      "source": "/Volumes/external/projects/ebay-clone",
+      "canonical": "global-shipping",
+      "kind": "route"
+    },
+    {
+      "project": "ebay-clone",
+      "sourceKey": "seller-performance",
+      "source": "/Volumes/external/projects/ebay-clone",
+      "canonical": "seller-performance",
+      "kind": "route"
+    },
+    {
+      "project": "ebay-clone",
+      "sourceKey": "proxy-bidding",
+      "source": "/Volumes/external/projects/ebay-clone",
+      "canonical": "proxy-bidding",
+      "kind": "route"
+    },
+    {
+      "project": "ebay-clone",
+      "sourceKey": "my-bids",
+      "source": "/Volumes/external/projects/ebay-clone",
+      "canonical": "my-bids",
+      "kind": "route"
+    },
+    {
+      "project": "ebay-clone",
+      "sourceKey": "local-pickup",
+      "source": "/Volumes/external/projects/ebay-clone",
+      "canonical": "local-pickup",
+      "kind": "route"
+    },
+    {
+      "project": "ebay-clone",
+      "sourceKey": "notifications",
+      "source": "/Volumes/external/projects/ebay-clone",
+      "canonical": "messages",
+      "kind": "route"
+    },
+    {
+      "project": "ebay-clone",
+      "sourceKey": "messages",
+      "source": "/Volumes/external/projects/ebay-clone",
+      "canonical": "messages",
+      "kind": "route"
+    },
+    {
+      "project": "ebay-clone",
+      "sourceKey": "contact",
+      "source": "/Volumes/external/projects/ebay-clone",
+      "canonical": "contacts",
+      "kind": "route"
+    },
+    {
+      "project": "ebay-clone",
+      "sourceKey": "policies",
+      "source": "/Volumes/external/projects/ebay-clone",
+      "canonical": "policies",
+      "kind": "route"
+    },
+    {
+      "project": "ebay-clone",
+      "sourceKey": "careers",
+      "source": "/Volumes/external/projects/ebay-clone",
+      "canonical": "careers",
+      "kind": "route"
+    },
+    {
+      "project": "ebay-clone",
+      "sourceKey": "government",
+      "source": "/Volumes/external/projects/ebay-clone",
+      "canonical": "government",
+      "kind": "route"
+    },
+    {
+      "project": "ebay-clone",
+      "sourceKey": "stores",
+      "source": "/Volumes/external/projects/ebay-clone",
+      "canonical": "stores",
+      "kind": "route"
+    },
+    {
+      "project": "ebay-clone",
+      "sourceKey": "apps",
+      "source": "/Volumes/external/projects/ebay-clone",
+      "canonical": "apps",
+      "kind": "route"
+    },
+    {
+      "project": "ebay-clone",
+      "sourceKey": "sitemap",
+      "source": "/Volumes/external/projects/ebay-clone",
+      "canonical": "sitemap",
+      "kind": "route"
+    },
+    {
+      "project": "ebay-clone",
+      "sourceKey": "promoted-listings",
+      "source": "/Volumes/external/projects/ebay-clone",
+      "canonical": "promoted-listings",
+      "kind": "route"
+    },
+    {
+      "project": "ebay-clone",
+      "sourceKey": "second-chance-offers",
+      "source": "/Volumes/external/projects/ebay-clone",
+      "canonical": "second-chance-offers",
+      "kind": "route"
+    },
+    {
+      "project": "ebay-clone",
+      "sourceKey": "authenticity-guarantee",
+      "source": "/Volumes/external/projects/ebay-clone",
+      "canonical": "authenticity-guarantee",
+      "kind": "route"
+    },
+    {
+      "project": "ebay-clone",
+      "sourceKey": "motors",
+      "source": "/Volumes/external/projects/ebay-clone",
+      "canonical": "motors",
+      "kind": "route"
+    },
+    {
+      "project": "ebay-clone",
+      "sourceKey": "charity",
+      "source": "/Volumes/external/projects/ebay-clone",
+      "canonical": "charity",
+      "kind": "route"
+    },
+    {
+      "project": "ebay-clone",
+      "sourceKey": "import-duties",
+      "source": "/Volumes/external/projects/ebay-clone",
+      "canonical": "import-duties",
+      "kind": "route"
+    },
+    {
+      "project": "ebay-clone",
+      "sourceKey": "selling-limits",
+      "source": "/Volumes/external/projects/ebay-clone",
+      "canonical": "selling-limits",
+      "kind": "route"
+    },
+    {
+      "project": "ebay-clone",
+      "sourceKey": "volume-pricing",
+      "source": "/Volumes/external/projects/ebay-clone",
+      "canonical": "volume-pricing",
+      "kind": "route"
+    },
+    {
+      "project": "ebay-clone",
+      "sourceKey": "ai-features",
+      "source": "/Volumes/external/projects/ebay-clone",
+      "canonical": "features",
+      "kind": "route"
+    },
+    {
+      "project": "ebay-clone",
+      "sourceKey": "ai-demand-reputation",
+      "source": "/Volumes/external/projects/ebay-clone",
+      "canonical": "demand-reputation",
+      "kind": "route"
+    },
+    {
+      "project": "ebay-clone",
+      "sourceKey": "security-audit",
+      "source": "/Volumes/external/projects/ebay-clone",
+      "canonical": "security-audit",
+      "kind": "route"
+    },
+    {
+      "project": "ebay-clone",
+      "sourceKey": "token-blacklist",
+      "source": "/Volumes/external/projects/ebay-clone",
+      "canonical": "token-blacklist",
+      "kind": "route"
+    },
+    {
+      "project": "ebay-clone",
+      "sourceKey": "error-logs",
+      "source": "/Volumes/external/projects/ebay-clone",
+      "canonical": "error-logs",
+      "kind": "route"
+    },
+    {
+      "project": "ebay-clone",
+      "sourceKey": "validation-rules",
+      "source": "/Volumes/external/projects/ebay-clone",
+      "canonical": "validation-rules",
+      "kind": "route"
+    },
+    {
+      "project": "shopify",
+      "sourceKey": "/products",
+      "source": "/Volumes/external/projects/shopify/src/app/(admin)/dashboard/page.tsx",
+      "canonical": "products",
+      "kind": "definition"
+    },
+    {
+      "project": "shopify",
+      "sourceKey": "/orders",
+      "source": "/Volumes/external/projects/shopify/src/app/(admin)/dashboard/page.tsx",
+      "canonical": "orders",
+      "kind": "definition"
+    },
+    {
+      "project": "shopify",
+      "sourceKey": "/customers",
+      "source": "/Volumes/external/projects/shopify/src/app/(admin)/dashboard/page.tsx",
+      "canonical": "clients",
+      "kind": "definition"
+    },
+    {
+      "project": "shopify",
+      "sourceKey": "/inventory",
+      "source": "/Volumes/external/projects/shopify/src/app/(admin)/dashboard/page.tsx",
+      "canonical": "inventory",
+      "kind": "definition"
+    },
+    {
+      "project": "shopify",
+      "sourceKey": "/analytics",
+      "source": "/Volumes/external/projects/shopify/src/app/(admin)/dashboard/page.tsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "shopify",
+      "sourceKey": "/discounts",
+      "source": "/Volumes/external/projects/shopify/src/app/(admin)/dashboard/page.tsx",
+      "canonical": "discounts",
+      "kind": "definition"
+    },
+    {
+      "project": "shopify",
+      "sourceKey": "/collections",
+      "source": "/Volumes/external/projects/shopify/src/app/(admin)/dashboard/page.tsx",
+      "canonical": "collections",
+      "kind": "definition"
+    },
+    {
+      "project": "shopify",
+      "sourceKey": "/export",
+      "source": "/Volumes/external/projects/shopify/src/app/(admin)/dashboard/page.tsx",
+      "canonical": "export",
+      "kind": "definition"
+    },
+    {
+      "project": "shopify",
+      "sourceKey": "/export",
+      "source": "/Volumes/external/projects/shopify/src/app/(admin)/dashboard/page.tsx",
+      "canonical": "export",
+      "kind": "definition"
+    },
+    {
+      "project": "shopify",
+      "sourceKey": "/merchandising-margin",
+      "source": "/Volumes/external/projects/shopify/src/components/layout/Sidebar.tsx",
+      "canonical": "merchandising-margin",
+      "kind": "definition"
+    },
+    {
+      "project": "shopify",
+      "sourceKey": "/export",
+      "source": "/Volumes/external/projects/shopify/src/components/layout/Sidebar.tsx",
+      "canonical": "export",
+      "kind": "definition"
+    }
+  ],
+  "ignored": [
+    {
+      "project": "ai-ecommerce-fulfillment-inventory-loss-recovery",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/ai-ecommerce-fulfillment-inventory-loss-recovery/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-marketplace-seller-fee-reimbursement-recovery",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/ai-marketplace-seller-fee-reimbursement-recovery/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-subscription-billing-revenue-leakage-recovery",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/ai-subscription-billing-revenue-leakage-recovery/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AICircularEconomyUpcyclingMarketplace",
+      "key": "insights/timeline",
+      "source": "/Volumes/external/projects/AICircularEconomyUpcyclingMarketplace",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AICircularEconomyUpcyclingMarketplace",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AICircularEconomyUpcyclingMarketplace",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AICircularEconomyUpcyclingMarketplace",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AICircularEconomyUpcyclingMarketplace",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AICircularEconomyUpcyclingMarketplace",
+      "key": "register",
+      "source": "/Volumes/external/projects/AICircularEconomyUpcyclingMarketplace",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AICircularEconomyUpcyclingMarketplace",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AICircularEconomyUpcyclingMarketplace",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AICircularEconomyUpcyclingMarketplace",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AICircularEconomyUpcyclingMarketplace",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AiECommerceAgent",
+      "key": "/pricing",
+      "source": "/Volumes/external/projects/AiECommerceAgent/frontend/src/pages/Dashboard.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AiECommerceAgent",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AiECommerceAgent",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AiECommerceAgent",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AiECommerceAgent",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AiECommerceAgent",
+      "key": "batch03",
+      "source": "/Volumes/external/projects/AiECommerceAgent",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AiECommerceAgent",
+      "key": "login",
+      "source": "/Volumes/external/projects/AiECommerceAgent",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AiECommerceAgent",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AiECommerceAgent",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/AiECommerceAgent",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AiECommerceAgent",
+      "key": "pricing",
+      "source": "/Volumes/external/projects/AiECommerceAgent",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AiECommerceAgent",
+      "key": "profile",
+      "source": "/Volumes/external/projects/AiECommerceAgent",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIMarketplaceBuilderPlatform",
+      "key": "insights/timeline",
+      "source": "/Volumes/external/projects/AIMarketplaceBuilderPlatform",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIMarketplaceBuilderPlatform",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIMarketplaceBuilderPlatform",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIMarketplaceBuilderPlatform",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIMarketplaceBuilderPlatform",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIMarketplaceBuilderPlatform",
+      "key": "register",
+      "source": "/Volumes/external/projects/AIMarketplaceBuilderPlatform",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIMarketplaceBuilderPlatform",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIPricingOptimizer",
+      "key": "/",
+      "source": "/Volumes/external/projects/AIPricingOptimizer/frontend/src/components/Layout.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIPricingOptimizer",
+      "key": "/custom-views",
+      "source": "/Volumes/external/projects/AIPricingOptimizer/frontend/src/components/Layout.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIPricingOptimizer",
+      "key": "/settings",
+      "source": "/Volumes/external/projects/AIPricingOptimizer/frontend/src/components/Layout.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIPricingOptimizer",
+      "key": "history",
+      "source": "/Volumes/external/projects/AIPricingOptimizer/frontend/src/pages/Dashboard.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIPricingOptimizer",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIPricingOptimizer",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIPricingOptimizer",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIPricingOptimizer",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIPricingOptimizer",
+      "key": "login",
+      "source": "/Volumes/external/projects/AIPricingOptimizer",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIPricingOptimizer",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIPricingOptimizer",
+      "key": "settings",
+      "source": "/Volumes/external/projects/AIPricingOptimizer",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIPricingOptimizer",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AIPricingOptimizer",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AISubscriptionBoxCurator",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AISubscriptionBoxCurator",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AISubscriptionBoxCurator",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AISubscriptionBoxCurator",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AISubscriptionBoxCurator",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AISubscriptionBoxCurator",
+      "key": "/subscription-boxes/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AISubscriptionBoxCurator",
+      "key": "/products/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AISubscriptionBoxCurator",
+      "key": "/customers/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AISubscriptionBoxCurator",
+      "key": "/orders/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AISubscriptionBoxCurator",
+      "key": "ai-center",
+      "source": "/Volumes/external/projects/AISubscriptionBoxCurator",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AISubscriptionBoxCurator",
+      "key": "/ai/:feature",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AISubscriptionBoxCurator",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AISubscriptionBoxCurator",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AISubscriptionBoxCurator",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIVirtualShowroomBuilder",
+      "key": "/ai-tools",
+      "source": "/Volumes/external/projects/AIVirtualShowroomBuilder/client/src/components/Sidebar.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIVirtualShowroomBuilder",
+      "key": "/pricing",
+      "source": "/Volumes/external/projects/AIVirtualShowroomBuilder/client/src/components/Sidebar.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIVirtualShowroomBuilder",
+      "key": "/pricing",
+      "source": "/Volumes/external/projects/AIVirtualShowroomBuilder/client/src/pages/Dashboard.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIVirtualShowroomBuilder",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIVirtualShowroomBuilder",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIVirtualShowroomBuilder",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIVirtualShowroomBuilder",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIVirtualShowroomBuilder",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIVirtualShowroomBuilder",
+      "key": "pricing",
+      "source": "/Volumes/external/projects/AIVirtualShowroomBuilder",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIVirtualShowroomBuilder",
+      "key": "ai-tools",
+      "source": "/Volumes/external/projects/AIVirtualShowroomBuilder",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIVirtualShowroomBuilder",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "ebay-clone",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/ebay-clone",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ebay-clone",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/ebay-clone",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ebay-clone",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "ebay-clone",
+      "key": "login",
+      "source": "/Volumes/external/projects/ebay-clone",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ebay-clone",
+      "key": "register",
+      "source": "/Volumes/external/projects/ebay-clone",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ebay-clone",
+      "key": "/product/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "ebay-clone",
+      "key": "search",
+      "source": "/Volumes/external/projects/ebay-clone",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ebay-clone",
+      "key": "/category/:slug",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "ebay-clone",
+      "key": "/orders/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "ebay-clone",
+      "key": "/sell/edit/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "ebay-clone",
+      "key": "/admin/*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "ebay-clone",
+      "key": "/disputes/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "ebay-clone",
+      "key": "/returns/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "ebay-clone",
+      "key": "/collections/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "ebay-clone",
+      "key": "/store/:username",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "ebay-clone",
+      "key": "/wishlist/share/:token",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "ebay-clone",
+      "key": "/seller/sniping/:productId",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "ebay-clone",
+      "key": "/live/:streamId",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "ebay-clone",
+      "key": "/vault/:itemId",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "ebay-clone",
+      "key": "profile",
+      "source": "/Volumes/external/projects/ebay-clone",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ebay-clone",
+      "key": "/messages/:conversationId",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "ebay-clone",
+      "key": "help",
+      "source": "/Volumes/external/projects/ebay-clone",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ebay-clone",
+      "key": "/help/:topic",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "ebay-clone",
+      "key": "about",
+      "source": "/Volumes/external/projects/ebay-clone",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ebay-clone",
+      "key": "/legal/:page",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "ebay-clone",
+      "key": "ai",
+      "source": "/Volumes/external/projects/ebay-clone",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ebay-clone",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/ebay-clone",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ebay-clone",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "shopify",
+      "key": "/settings",
+      "source": "/Volumes/external/projects/shopify/src/app/(admin)/dashboard/page.tsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "shopify",
+      "key": "/dashboard",
+      "source": "/Volumes/external/projects/shopify/src/components/layout/Sidebar.tsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    }
+  ],
+  "migrationWarnings": [
+    {
+      "feature": "fulfillment-agreement-library",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "sku-cost-registry",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "inbound-shipment-ingestion",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "receiving-reconciliation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "inventory-adjustment-tracking",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "warehouse-loss-detection",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "damage-event-evidence",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "disposal-authorization-control",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "removal-order-matching",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "reimbursement-eligibility",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "replacement-cost-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "provider-claim-generation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "denial-appeal-workflow",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "cash-reimbursement-matching",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "provider-sku-analytics",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "product-catalog-versioning",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "customer-contract-ingestion",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "entitlement-registry",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "subscription-lifecycle-control",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "usage-event-ingestion",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "minimum-commitment-validation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "proration-recalculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "discount-expiration-monitoring",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "renewal-uplift-enforcement",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "overage-billing-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "tax-and-currency-validation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "missing-invoice-detection",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "credit-and-refund-audit",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "corrected-billing-workflow",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "mrr-arr-and-leakage-analytics",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "project": "ebay",
+      "reason": "No structured web feature declarations extracted. Source-specific engine/UI migration remains required."
+    }
+  ]
+}

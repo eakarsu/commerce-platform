@@ -1,0 +1,8 @@
+{
+  "id": "commerce-platform",
+  "port": 46049,
+  "status": "passed",
+  "startScript": true,
+  "health": true,
+  "verifiedAt": "2026-09-07T14:38:52.241Z"
+}

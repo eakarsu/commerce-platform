@@ -1,0 +1,9 @@
+{
+  "app": "commerce-platform",
+  "features": 308,
+  "sourceApps": 13,
+  "calculatorEngines": 1,
+  "registryHash": "a1a2dcb76e9a21a3e2b2c7c04a462879fb76e1c6f3be797aea8f24b60ee09b04",
+  "builtAt": "2026-09-07T22:06:05.092Z",
+  "status": "built"
+}

@@ -1,0 +1,765 @@
+[
+  {
+    "id": "ai-documents",
+    "title": "Writing, documents & knowledge",
+    "group": "AI assistants",
+    "path": "/assistants/ai-documents",
+    "featureIds": [
+      "notes",
+      "documents",
+      "templates"
+    ],
+    "ai": true,
+    "representativeId": "notes",
+    "description": "One assistant for 3 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "notes",
+        "title": "Notes",
+        "originalPath": "/features/notes"
+      },
+      {
+        "id": "documents",
+        "title": "Documents",
+        "originalPath": "/features/documents"
+      },
+      {
+        "id": "templates",
+        "title": "Templates",
+        "originalPath": "/features/templates"
+      }
+    ]
+  },
+  {
+    "id": "ai-general",
+    "title": "General assistance",
+    "group": "AI assistants",
+    "path": "/assistants/ai-general",
+    "featureIds": [
+      "fulfillment-agreement-library",
+      "inbound-shipment-ingestion",
+      "inventory-adjustment-tracking",
+      "provider-claim-generation",
+      "denial-appeal-workflow",
+      "provider-sku-analytics",
+      "sku-and-listing-registry",
+      "fulfillment-inventory-ledger",
+      "lost-and-damaged-inventory-recovery",
+      "claim-package-and-submission",
+      "sku-and-marketplace-leakage-analytics",
+      "product-catalog-versioning",
+      "customer-contract-ingestion",
+      "entitlement-registry",
+      "usage-event-ingestion",
+      "proration-recalculation",
+      "discount-expiration-monitoring",
+      "renewal-uplift-enforcement",
+      "mrr-arr-and-leakage-analytics",
+      "tools-repair-or-resell",
+      "tools-sustainability-verify",
+      "reviews",
+      "competitors",
+      "api-ai-seller-match",
+      "competitor-tracking",
+      "usage-stats",
+      "api-ai-generate-theme",
+      "ai-endpoints-cover-the-curation-workflow-well",
+      "models3d",
+      "layouts",
+      "artryons",
+      "descriptions",
+      "description-enhancer",
+      "lighting-mood",
+      "comparison",
+      "customer-journey-heatmap",
+      "ai-generated-3d-model-auto-rigging-from-photos",
+      "ebay",
+      "daily-deals",
+      "features"
+    ],
+    "ai": true,
+    "representativeId": "fulfillment-agreement-library",
+    "description": "One assistant for 40 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "fulfillment-agreement-library",
+        "title": "Fulfillment agreement library",
+        "originalPath": "/features/fulfillment-agreement-library"
+      },
+      {
+        "id": "inbound-shipment-ingestion",
+        "title": "Inbound shipment ingestion",
+        "originalPath": "/features/inbound-shipment-ingestion"
+      },
+      {
+        "id": "inventory-adjustment-tracking",
+        "title": "Inventory adjustment tracking",
+        "originalPath": "/features/inventory-adjustment-tracking"
+      },
+      {
+        "id": "provider-claim-generation",
+        "title": "Provider claim generation",
+        "originalPath": "/features/provider-claim-generation"
+      },
+      {
+        "id": "denial-appeal-workflow",
+        "title": "Denial appeal workflow",
+        "originalPath": "/features/denial-appeal-workflow"
+      },
+      {
+        "id": "provider-sku-analytics",
+        "title": "Provider SKU analytics",
+        "originalPath": "/features/provider-sku-analytics"
+      },
+      {
+        "id": "sku-and-listing-registry",
+        "title": "SKU and listing registry",
+        "originalPath": "/features/sku-and-listing-registry"
+      },
+      {
+        "id": "fulfillment-inventory-ledger",
+        "title": "Fulfillment inventory ledger",
+        "originalPath": "/features/fulfillment-inventory-ledger"
+      },
+      {
+        "id": "lost-and-damaged-inventory-recovery",
+        "title": "Lost and damaged inventory recovery",
+        "originalPath": "/features/lost-and-damaged-inventory-recovery"
+      },
+      {
+        "id": "claim-package-and-submission",
+        "title": "Claim package and submission",
+        "originalPath": "/features/claim-package-and-submission"
+      },
+      {
+        "id": "sku-and-marketplace-leakage-analytics",
+        "title": "SKU and marketplace leakage analytics",
+        "originalPath": "/features/sku-and-marketplace-leakage-analytics"
+      },
+      {
+        "id": "product-catalog-versioning",
+        "title": "Product catalog versioning",
+        "originalPath": "/features/product-catalog-versioning"
+      },
+      {
+        "id": "customer-contract-ingestion",
+        "title": "Customer contract ingestion",
+        "originalPath": "/features/customer-contract-ingestion"
+      },
+      {
+        "id": "entitlement-registry",
+        "title": "Entitlement registry",
+        "originalPath": "/features/entitlement-registry"
+      },
+      {
+        "id": "usage-event-ingestion",
+        "title": "Usage-event ingestion",
+        "originalPath": "/features/usage-event-ingestion"
+      },
+      {
+        "id": "proration-recalculation",
+        "title": "Proration recalculation",
+        "originalPath": "/features/proration-recalculation"
+      },
+      {
+        "id": "discount-expiration-monitoring",
+        "title": "Discount expiration monitoring",
+        "originalPath": "/features/discount-expiration-monitoring"
+      },
+      {
+        "id": "renewal-uplift-enforcement",
+        "title": "Renewal uplift enforcement",
+        "originalPath": "/features/renewal-uplift-enforcement"
+      },
+      {
+        "id": "mrr-arr-and-leakage-analytics",
+        "title": "MRR ARR and leakage analytics",
+        "originalPath": "/features/mrr-arr-and-leakage-analytics"
+      },
+      {
+        "id": "tools-repair-or-resell",
+        "title": "Repair or resell",
+        "originalPath": "/features/tools-repair-or-resell"
+      },
+      {
+        "id": "tools-sustainability-verify",
+        "title": "Sustainability verify",
+        "originalPath": "/features/tools-sustainability-verify"
+      },
+      {
+        "id": "reviews",
+        "title": "Reviews",
+        "originalPath": "/features/reviews"
+      },
+      {
+        "id": "competitors",
+        "title": "Competitors",
+        "originalPath": "/features/competitors"
+      },
+      {
+        "id": "api-ai-seller-match",
+        "title": "Seller Match",
+        "originalPath": "/features/api-ai-seller-match"
+      },
+      {
+        "id": "competitor-tracking",
+        "title": "Competitor Tracker",
+        "originalPath": "/features/competitor-tracking"
+      },
+      {
+        "id": "usage-stats",
+        "title": "AI Usage Stats",
+        "originalPath": "/features/usage-stats"
+      },
+      {
+        "id": "api-ai-generate-theme",
+        "title": "Theme Generator",
+        "originalPath": "/features/api-ai-generate-theme"
+      },
+      {
+        "id": "ai-endpoints-cover-the-curation-workflow-well",
+        "title": "ai endpoints cover the curation workflow well",
+        "originalPath": "/features/ai-endpoints-cover-the-curation-workflow-well"
+      },
+      {
+        "id": "models3d",
+        "title": "3D Model Generation",
+        "originalPath": "/features/models3d"
+      },
+      {
+        "id": "layouts",
+        "title": "Store Layouts",
+        "originalPath": "/features/layouts"
+      },
+      {
+        "id": "artryons",
+        "title": "AR Try-On",
+        "originalPath": "/features/artryons"
+      },
+      {
+        "id": "descriptions",
+        "title": "AI Descriptions",
+        "originalPath": "/features/descriptions"
+      },
+      {
+        "id": "description-enhancer",
+        "title": "Product Description Enhancer",
+        "originalPath": "/features/description-enhancer"
+      },
+      {
+        "id": "lighting-mood",
+        "title": "Lighting Mood Generator",
+        "originalPath": "/features/lighting-mood"
+      },
+      {
+        "id": "comparison",
+        "title": "Showroom Comparison",
+        "originalPath": "/features/comparison"
+      },
+      {
+        "id": "customer-journey-heatmap",
+        "title": "Customer Journey Heatmap",
+        "originalPath": "/features/customer-journey-heatmap"
+      },
+      {
+        "id": "ai-generated-3d-model-auto-rigging-from-photos",
+        "title": "ai generated 3d model auto rigging from photos",
+        "originalPath": "/features/ai-generated-3d-model-auto-rigging-from-photos"
+      },
+      {
+        "id": "ebay",
+        "title": "Ebay work",
+        "originalPath": "/features/ebay"
+      },
+      {
+        "id": "daily-deals",
+        "title": "Daily deals",
+        "originalPath": "/features/daily-deals"
+      },
+      {
+        "id": "features",
+        "title": "Features",
+        "originalPath": "/features/features"
+      }
+    ]
+  },
+  {
+    "id": "ai-finance",
+    "title": "Finance & reconciliation",
+    "group": "AI assistants",
+    "path": "/assistants/ai-finance",
+    "featureIds": [
+      "sku-cost-registry",
+      "receiving-reconciliation",
+      "reimbursement-eligibility",
+      "replacement-cost-calculation",
+      "cash-reimbursement-matching",
+      "order-and-settlement-ingestion",
+      "return-and-refund-reconciliation",
+      "fulfillment-fee-recalculation",
+      "storage-and-aged-inventory-fee-audit",
+      "commission-and-referral-fee-audit",
+      "reimbursement-eligibility-engine",
+      "settlement-credit-reconciliation",
+      "overage-billing-calculation",
+      "tax-and-currency-validation",
+      "missing-invoice-detection",
+      "credit-and-refund-audit",
+      "corrected-billing-workflow",
+      "price-elasticity",
+      "api-ai-pricing-advisor",
+      "price-tracker",
+      "api-ai-optimize-price",
+      "competitor-price-monitoring-with-repricing-recommendations",
+      "seller-fee-optimizer"
+    ],
+    "ai": true,
+    "representativeId": "sku-cost-registry",
+    "description": "One assistant for 23 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "sku-cost-registry",
+        "title": "SKU cost registry",
+        "originalPath": "/features/sku-cost-registry"
+      },
+      {
+        "id": "receiving-reconciliation",
+        "title": "Receiving reconciliation",
+        "originalPath": "/features/receiving-reconciliation"
+      },
+      {
+        "id": "reimbursement-eligibility",
+        "title": "Reimbursement eligibility",
+        "originalPath": "/features/reimbursement-eligibility"
+      },
+      {
+        "id": "replacement-cost-calculation",
+        "title": "Replacement cost calculation",
+        "originalPath": "/features/replacement-cost-calculation"
+      },
+      {
+        "id": "cash-reimbursement-matching",
+        "title": "Cash reimbursement matching",
+        "originalPath": "/features/cash-reimbursement-matching"
+      },
+      {
+        "id": "order-and-settlement-ingestion",
+        "title": "Order and settlement ingestion",
+        "originalPath": "/features/order-and-settlement-ingestion"
+      },
+      {
+        "id": "return-and-refund-reconciliation",
+        "title": "Return and refund reconciliation",
+        "originalPath": "/features/return-and-refund-reconciliation"
+      },
+      {
+        "id": "fulfillment-fee-recalculation",
+        "title": "Fulfillment fee recalculation",
+        "originalPath": "/features/fulfillment-fee-recalculation"
+      },
+      {
+        "id": "storage-and-aged-inventory-fee-audit",
+        "title": "Storage and aged-inventory fee audit",
+        "originalPath": "/features/storage-and-aged-inventory-fee-audit"
+      },
+      {
+        "id": "commission-and-referral-fee-audit",
+        "title": "Commission and referral fee audit",
+        "originalPath": "/features/commission-and-referral-fee-audit"
+      },
+      {
+        "id": "reimbursement-eligibility-engine",
+        "title": "Reimbursement eligibility engine",
+        "originalPath": "/features/reimbursement-eligibility-engine"
+      },
+      {
+        "id": "settlement-credit-reconciliation",
+        "title": "Settlement credit reconciliation",
+        "originalPath": "/features/settlement-credit-reconciliation"
+      },
+      {
+        "id": "overage-billing-calculation",
+        "title": "Overage billing calculation",
+        "originalPath": "/features/overage-billing-calculation"
+      },
+      {
+        "id": "tax-and-currency-validation",
+        "title": "Tax and currency validation",
+        "originalPath": "/features/tax-and-currency-validation"
+      },
+      {
+        "id": "missing-invoice-detection",
+        "title": "Missing invoice detection",
+        "originalPath": "/features/missing-invoice-detection"
+      },
+      {
+        "id": "credit-and-refund-audit",
+        "title": "Credit and refund audit",
+        "originalPath": "/features/credit-and-refund-audit"
+      },
+      {
+        "id": "corrected-billing-workflow",
+        "title": "Corrected billing workflow",
+        "originalPath": "/features/corrected-billing-workflow"
+      },
+      {
+        "id": "price-elasticity",
+        "title": "Price elasticity",
+        "originalPath": "/features/price-elasticity"
+      },
+      {
+        "id": "api-ai-pricing-advisor",
+        "title": "Pricing Advisor",
+        "originalPath": "/features/api-ai-pricing-advisor"
+      },
+      {
+        "id": "price-tracker",
+        "title": "Price Tracker",
+        "originalPath": "/features/price-tracker"
+      },
+      {
+        "id": "api-ai-optimize-price",
+        "title": "Price Optimizer",
+        "originalPath": "/features/api-ai-optimize-price"
+      },
+      {
+        "id": "competitor-price-monitoring-with-repricing-recommendations",
+        "title": "competitor price monitoring with repricing recommendations",
+        "originalPath": "/features/competitor-price-monitoring-with-repricing-recommendations"
+      },
+      {
+        "id": "seller-fee-optimizer",
+        "title": "Fee optimizer",
+        "originalPath": "/features/seller-fee-optimizer"
+      }
+    ]
+  },
+  {
+    "id": "ai-insights",
+    "title": "Insights & recommendations",
+    "group": "AI assistants",
+    "path": "/assistants/ai-insights",
+    "featureIds": [
+      "warehouse-loss-detection",
+      "removal-order-matching",
+      "inbound-shortage-detection",
+      "duplicate-deduction-detection",
+      "tools-listing-optimizer",
+      "tools-trend-forecast",
+      "forecasts",
+      "recommendations",
+      "api-ai-marketplace-recommendations",
+      "insights",
+      "demand-forecasts",
+      "bundle-recommendations",
+      "discount-optimizations",
+      "demand-forecasting-ensemble",
+      "api-ai-analyze-feedback",
+      "api-ai-personalize-recommendations",
+      "api-ai-analyze-trends",
+      "api-ai-customer-ltv",
+      "seasonal-demand-forecasting-for-inventory-spikes-around-holidays",
+      "unboxing-experience-optimization-with-ai-suggested-product-arrangement",
+      "customer-lifetime-value-prediction-to-guide-acquisition-spend",
+      "styles",
+      "room-layout",
+      "visitor-behavior",
+      "product-recommendations",
+      "merchandising-optimizer",
+      "seasonal-layout",
+      "competitor-analysis",
+      "personalized-product-recommendations-from-browsing-behavior",
+      "competitor-showroom-analysis-adapting-layouts",
+      "seasonal-layout-promotion-recommender",
+      "ai-driven-personalized-product-recommendations",
+      "ai-visual-merchandising-optimizer",
+      "seller-inventory-forecast"
+    ],
+    "ai": true,
+    "representativeId": "warehouse-loss-detection",
+    "description": "One assistant for 34 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "warehouse-loss-detection",
+        "title": "Warehouse loss detection",
+        "originalPath": "/features/warehouse-loss-detection"
+      },
+      {
+        "id": "removal-order-matching",
+        "title": "Removal order matching",
+        "originalPath": "/features/removal-order-matching"
+      },
+      {
+        "id": "inbound-shortage-detection",
+        "title": "Inbound shortage detection",
+        "originalPath": "/features/inbound-shortage-detection"
+      },
+      {
+        "id": "duplicate-deduction-detection",
+        "title": "Duplicate deduction detection",
+        "originalPath": "/features/duplicate-deduction-detection"
+      },
+      {
+        "id": "tools-listing-optimizer",
+        "title": "Listing optimizer",
+        "originalPath": "/features/tools-listing-optimizer"
+      },
+      {
+        "id": "tools-trend-forecast",
+        "title": "Trend forecast",
+        "originalPath": "/features/tools-trend-forecast"
+      },
+      {
+        "id": "forecasts",
+        "title": "Forecasts",
+        "originalPath": "/features/forecasts"
+      },
+      {
+        "id": "recommendations",
+        "title": "Recommendations",
+        "originalPath": "/features/recommendations"
+      },
+      {
+        "id": "api-ai-marketplace-recommendations",
+        "title": "Marketplace Recommendations",
+        "originalPath": "/features/api-ai-marketplace-recommendations"
+      },
+      {
+        "id": "insights",
+        "title": "AI Insights",
+        "originalPath": "/features/insights"
+      },
+      {
+        "id": "demand-forecasts",
+        "title": "Demand Forecaster",
+        "originalPath": "/features/demand-forecasts"
+      },
+      {
+        "id": "bundle-recommendations",
+        "title": "Bundle Recommender",
+        "originalPath": "/features/bundle-recommendations"
+      },
+      {
+        "id": "discount-optimizations",
+        "title": "Discount Optimizer",
+        "originalPath": "/features/discount-optimizations"
+      },
+      {
+        "id": "demand-forecasting-ensemble",
+        "title": "demand forecasting ensemble",
+        "originalPath": "/features/demand-forecasting-ensemble"
+      },
+      {
+        "id": "api-ai-analyze-feedback",
+        "title": "Feedback Analyzer",
+        "originalPath": "/features/api-ai-analyze-feedback"
+      },
+      {
+        "id": "api-ai-personalize-recommendations",
+        "title": "Personalized Recommendations",
+        "originalPath": "/features/api-ai-personalize-recommendations"
+      },
+      {
+        "id": "api-ai-analyze-trends",
+        "title": "Trend Analyzer",
+        "originalPath": "/features/api-ai-analyze-trends"
+      },
+      {
+        "id": "api-ai-customer-ltv",
+        "title": "Customer LTV Predictor",
+        "originalPath": "/features/api-ai-customer-ltv"
+      },
+      {
+        "id": "seasonal-demand-forecasting-for-inventory-spikes-around-holidays",
+        "title": "seasonal demand forecasting for inventory spikes around holidays",
+        "originalPath": "/features/seasonal-demand-forecasting-for-inventory-spikes-around-holidays"
+      },
+      {
+        "id": "unboxing-experience-optimization-with-ai-suggested-product-arrangement",
+        "title": "unboxing experience optimization with ai suggested product arrangement",
+        "originalPath": "/features/unboxing-experience-optimization-with-ai-suggested-product-arrangement"
+      },
+      {
+        "id": "customer-lifetime-value-prediction-to-guide-acquisition-spend",
+        "title": "customer lifetime value prediction to guide acquisition spend",
+        "originalPath": "/features/customer-lifetime-value-prediction-to-guide-acquisition-spend"
+      },
+      {
+        "id": "styles",
+        "title": "Style Recommendations",
+        "originalPath": "/features/styles"
+      },
+      {
+        "id": "room-layout",
+        "title": "Room Layout Optimizer",
+        "originalPath": "/features/room-layout"
+      },
+      {
+        "id": "visitor-behavior",
+        "title": "Visitor Behavior Analyzer",
+        "originalPath": "/features/visitor-behavior"
+      },
+      {
+        "id": "product-recommendations",
+        "title": "Product Recommendations",
+        "originalPath": "/features/product-recommendations"
+      },
+      {
+        "id": "merchandising-optimizer",
+        "title": "Merchandising Optimizer",
+        "originalPath": "/features/merchandising-optimizer"
+      },
+      {
+        "id": "seasonal-layout",
+        "title": "Seasonal Layout Recommendation",
+        "originalPath": "/features/seasonal-layout"
+      },
+      {
+        "id": "competitor-analysis",
+        "title": "Competitor Showroom Analysis",
+        "originalPath": "/features/competitor-analysis"
+      },
+      {
+        "id": "personalized-product-recommendations-from-browsing-behavior",
+        "title": "personalized product recommendations from browsing behavior",
+        "originalPath": "/features/personalized-product-recommendations-from-browsing-behavior"
+      },
+      {
+        "id": "competitor-showroom-analysis-adapting-layouts",
+        "title": "competitor showroom analysis adapting layouts",
+        "originalPath": "/features/competitor-showroom-analysis-adapting-layouts"
+      },
+      {
+        "id": "seasonal-layout-promotion-recommender",
+        "title": "seasonal layout promotion recommender",
+        "originalPath": "/features/seasonal-layout-promotion-recommender"
+      },
+      {
+        "id": "ai-driven-personalized-product-recommendations",
+        "title": "ai driven personalized product recommendations",
+        "originalPath": "/features/ai-driven-personalized-product-recommendations"
+      },
+      {
+        "id": "ai-visual-merchandising-optimizer",
+        "title": "ai visual merchandising optimizer",
+        "originalPath": "/features/ai-visual-merchandising-optimizer"
+      },
+      {
+        "id": "seller-inventory-forecast",
+        "title": "Inventory forecast",
+        "originalPath": "/features/seller-inventory-forecast"
+      }
+    ]
+  },
+  {
+    "id": "ai-quality",
+    "title": "Risk, quality & compliance",
+    "group": "AI assistants",
+    "path": "/assistants/ai-quality",
+    "featureIds": [
+      "damage-event-evidence",
+      "disposal-authorization-control",
+      "marketplace-account-and-policy-library",
+      "subscription-lifecycle-control",
+      "minimum-commitment-validation",
+      "return-risk-exchange-optimizer",
+      "api-ai-fraud-detection"
+    ],
+    "ai": true,
+    "representativeId": "damage-event-evidence",
+    "description": "One assistant for 7 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "damage-event-evidence",
+        "title": "Damage event evidence",
+        "originalPath": "/features/damage-event-evidence"
+      },
+      {
+        "id": "disposal-authorization-control",
+        "title": "Disposal authorization control",
+        "originalPath": "/features/disposal-authorization-control"
+      },
+      {
+        "id": "marketplace-account-and-policy-library",
+        "title": "Marketplace account and policy library",
+        "originalPath": "/features/marketplace-account-and-policy-library"
+      },
+      {
+        "id": "subscription-lifecycle-control",
+        "title": "Subscription lifecycle control",
+        "originalPath": "/features/subscription-lifecycle-control"
+      },
+      {
+        "id": "minimum-commitment-validation",
+        "title": "Minimum commitment validation",
+        "originalPath": "/features/minimum-commitment-validation"
+      },
+      {
+        "id": "return-risk-exchange-optimizer",
+        "title": "Return risk exchange optimizer",
+        "originalPath": "/features/return-risk-exchange-optimizer"
+      },
+      {
+        "id": "api-ai-fraud-detection",
+        "title": "Fraud Detection",
+        "originalPath": "/features/api-ai-fraud-detection"
+      }
+    ]
+  },
+  {
+    "id": "ai-growth",
+    "title": "Marketing & customer growth",
+    "group": "AI assistants",
+    "path": "/assistants/ai-growth",
+    "featureIds": [
+      "marketing-email-sequences-for-onboarding-retention",
+      "visual-merchandising-optimizer-using-conversion-data",
+      "seller-reputation-forecast",
+      "demand-reputation"
+    ],
+    "ai": true,
+    "representativeId": "marketing-email-sequences-for-onboarding-retention",
+    "description": "One assistant for 4 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "marketing-email-sequences-for-onboarding-retention",
+        "title": "marketing email sequences for onboarding retention",
+        "originalPath": "/features/marketing-email-sequences-for-onboarding-retention"
+      },
+      {
+        "id": "visual-merchandising-optimizer-using-conversion-data",
+        "title": "visual merchandising optimizer using conversion data",
+        "originalPath": "/features/visual-merchandising-optimizer-using-conversion-data"
+      },
+      {
+        "id": "seller-reputation-forecast",
+        "title": "Seller reputation forecast",
+        "originalPath": "/features/seller-reputation-forecast"
+      },
+      {
+        "id": "demand-reputation",
+        "title": "Demand reputation",
+        "originalPath": "/features/demand-reputation"
+      }
+    ]
+  },
+  {
+    "id": "ai-creative",
+    "title": "Creative & design",
+    "group": "AI assistants",
+    "path": "/assistants/ai-creative",
+    "featureIds": [
+      "history"
+    ],
+    "ai": true,
+    "representativeId": "history",
+    "description": "One assistant for 1 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "history",
+        "title": "AI Results History",
+        "originalPath": "/features/history"
+      }
+    ]
+  }
+]

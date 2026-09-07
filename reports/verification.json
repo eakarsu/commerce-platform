@@ -1,0 +1,18 @@
+{
+  "id": "commerce-platform",
+  "status": "passed",
+  "features": 308,
+  "editableTables": 306,
+  "minimumRows": 15,
+  "repeatSeedCreated": 0,
+  "crud": true,
+  "persistence": true,
+  "relationships": true,
+  "revisions": true,
+  "attachments": true,
+  "exports": true,
+  "mockedAI": true,
+  "originProtection": true,
+  "sourceCalculationsExecuted": 15,
+  "verifiedAt": "2026-09-07T22:06:05.689Z"
+}

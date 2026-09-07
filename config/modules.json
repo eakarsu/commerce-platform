@@ -1,0 +1,80 @@
+[
+  {
+    "id": "ai-ecommerce-fulfillment-inventory-loss-recovery",
+    "name": "Ecommerce fulfillment inventory loss recovery",
+    "sourceProject": "ai-ecommerce-fulfillment-inventory-loss-recovery",
+    "services": []
+  },
+  {
+    "id": "ai-marketplace-seller-fee-reimbursement-recovery",
+    "name": "Marketplace seller fee reimbursement recovery",
+    "sourceProject": "ai-marketplace-seller-fee-reimbursement-recovery",
+    "services": []
+  },
+  {
+    "id": "ai-subscription-billing-revenue-leakage-recovery",
+    "name": "Subscription billing revenue leakage recovery",
+    "sourceProject": "ai-subscription-billing-revenue-leakage-recovery",
+    "services": []
+  },
+  {
+    "id": "AICircularEconomyUpcyclingMarketplace",
+    "name": "Circular economy upcycling marketplace",
+    "sourceProject": "AICircularEconomyUpcyclingMarketplace",
+    "services": []
+  },
+  {
+    "id": "AiECommerceAgent",
+    "name": "Ecommerce agent",
+    "sourceProject": "AiECommerceAgent",
+    "services": []
+  },
+  {
+    "id": "AIMarketplaceBuilderPlatform",
+    "name": "Marketplace builder platform",
+    "sourceProject": "AIMarketplaceBuilderPlatform",
+    "services": []
+  },
+  {
+    "id": "AIPricingOptimizer",
+    "name": "Pricing optimizer",
+    "sourceProject": "AIPricingOptimizer",
+    "services": []
+  },
+  {
+    "id": "AISubscriptionBoxCurator",
+    "name": "Subscription box curator",
+    "sourceProject": "AISubscriptionBoxCurator",
+    "services": []
+  },
+  {
+    "id": "AIVirtualShowroomBuilder",
+    "name": "Virtual showroom builder",
+    "sourceProject": "AIVirtualShowroomBuilder",
+    "services": []
+  },
+  {
+    "id": "dropShipping",
+    "name": "Drop shipping",
+    "sourceProject": "dropShipping",
+    "services": []
+  },
+  {
+    "id": "ebay",
+    "name": "Ebay",
+    "sourceProject": "ebay",
+    "services": []
+  },
+  {
+    "id": "ebay-clone",
+    "name": "Ebay clone",
+    "sourceProject": "ebay-clone",
+    "services": []
+  },
+  {
+    "id": "shopify",
+    "name": "Shopify",
+    "sourceProject": "shopify",
+    "services": []
+  }
+]

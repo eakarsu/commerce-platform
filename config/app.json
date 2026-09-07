@@ -1,0 +1,41 @@
+{
+  "id": "commerce-platform",
+  "title": "E-commerce, marketplaces & subscriptions",
+  "buyer": "Online retailers and marketplace operators",
+  "sourceCount": 13,
+  "sources": [
+    "ai-ecommerce-fulfillment-inventory-loss-recovery",
+    "ai-marketplace-seller-fee-reimbursement-recovery",
+    "ai-subscription-billing-revenue-leakage-recovery",
+    "AICircularEconomyUpcyclingMarketplace",
+    "AiECommerceAgent",
+    "AIMarketplaceBuilderPlatform",
+    "AIPricingOptimizer",
+    "AISubscriptionBoxCurator",
+    "AIVirtualShowroomBuilder",
+    "dropShipping",
+    "ebay",
+    "ebay-clone",
+    "shopify"
+  ],
+  "status": "proposed build; not implemented",
+  "canonicalFeatureStatus": "Requires feature-level mapping and workflow migration; source route counts are not feature-completion counts.",
+  "port": 46049,
+  "productName": "E-commerce, marketplaces Workspace",
+  "runtimeVersion": "1.0.0",
+  "sourceRoots": [
+    "/Volumes/external/projects/ai-ecommerce-fulfillment-inventory-loss-recovery",
+    "/Volumes/external/projects/ai-marketplace-seller-fee-reimbursement-recovery",
+    "/Volumes/external/projects/ai-subscription-billing-revenue-leakage-recovery",
+    "/Volumes/external/projects/AICircularEconomyUpcyclingMarketplace",
+    "/Volumes/external/projects/AiECommerceAgent",
+    "/Volumes/external/projects/AIMarketplaceBuilderPlatform",
+    "/Volumes/external/projects/AIPricingOptimizer",
+    "/Volumes/external/projects/AISubscriptionBoxCurator",
+    "/Volumes/external/projects/AIVirtualShowroomBuilder",
+    "/Volumes/external/projects/dropShipping",
+    "/Volumes/external/projects/ebay",
+    "/Volumes/external/projects/ebay-clone",
+    "/Volumes/external/projects/shopify"
+  ]
+}
